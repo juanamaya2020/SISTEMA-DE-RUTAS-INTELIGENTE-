@@ -99,14 +99,14 @@ ESTACIONES = {
 }
 
 
-# ============================================================
+# ........................................................
 # 2. BASE DE CONOCIMIENTO
-# ============================================================
+# .......................................................
 
 
 CONEXIONES = [
 
-    # Ruta principal hipotética
+    # Ruta principal
 
     ("Portal Norte", "Toberín", 1),
     ("Toberín", "Calle 142", 1),
@@ -124,9 +124,9 @@ CONEXIONES = [
     ("General Santander", "Perdomo", 1),
     ("Perdomo", "Portal Sur", 1),
 
-    # --------------------------------------------------------
+    # ............................................
     # Rutas alternativas
-    # --------------------------------------------------------
+    # .............................................
 
     ("Calle 100", "Calle 26", 3),
     ("Calle 26", "Av. Eldorado", 2),
@@ -149,14 +149,14 @@ def construir_grafo():
 
     grafo = {}
 
-    # Crear los nodos
+    # los nodos
 
     for estacion in ESTACIONES:
 
         grafo[estacion] = []
 
 
-    # Crear las conexiones
+    # conexiones
 
     for origen, destino, costo in CONEXIONES:
 
@@ -166,9 +166,7 @@ def construir_grafo():
             (destino, costo)
         )
 
-        # Conexión de regreso
-        # Para este modelo académico las conexiones
-        # se consideran bidireccionales.
+        # Conexión de regreso, en este caso o modelo las conexiones las o considero como bidireccionales.
 
         grafo[destino].append(
             (origen, costo)
@@ -190,8 +188,7 @@ def aplicar_reglas(estacion):
 
     destinos_validos = []
 
-    # Consultamos los hechos relacionados
-    # con la estación actual.
+    # Consultamos los hechos relacionados con la estación actual.
 
     for destino, costo in GRAFO[estacion]:
 
@@ -207,9 +204,9 @@ def aplicar_reglas(estacion):
     return destinos_validos
 
 
-# ============================================================
+# .....................................
 # 5. FUNCIÓN HEURÍSTICA
-# ============================================================
+# ..............................
 #
 # A* utiliza:
 #
@@ -219,7 +216,7 @@ def aplicar_reglas(estacion):
 #
 # h(n) = estimación del costo restante
 #
-# ============================================================
+# ........................................
 
 def heuristica(estacion_actual, destino):
 
@@ -245,14 +242,14 @@ def heuristica(estacion_actual, destino):
 # 6. ALGORITMO A*
 
 
-# El algoritmo busca una ruta de menor costo.#
+# la idea es que  algoritmo busque una ruta de menor costo.#
 
 
 def buscar_ruta(origen, destino):
 
-    # --------------------------------------------------------
+    # .....................
     # Validación
-    # --------------------------------------------------------
+    # ............
 
     if origen not in GRAFO:
 
@@ -263,18 +260,18 @@ def buscar_ruta(origen, destino):
         return None, None
 
 
-    # --------------------------------------------------------
+    # ..............................
     # Caso en que origen y destino son iguales
-    # --------------------------------------------------------
+    #..........................................
 
     if origen == destino:
 
         return [origen], 0
 
 
-    # --------------------------------------------------------
+    # ..............................
     # Cola de prioridad
-    # --------------------------------------------------------
+    # ...............................
 
     frontera = []
 
@@ -293,9 +290,9 @@ def buscar_ruta(origen, destino):
     )
 
 
-    # --------------------------------------------------------
+    # ...................................................
     # Costos acumulados
-    # --------------------------------------------------------
+    # ...................................................
 
     costos = {
 
@@ -304,11 +301,9 @@ def buscar_ruta(origen, destino):
     }
 
 
-    # --------------------------------------------------------
-    # Padres
-    #
+   
     # Permite reconstruir la ruta al final.
-    # --------------------------------------------------------
+
 
     padres = {
 
@@ -317,16 +312,15 @@ def buscar_ruta(origen, destino):
     }
 
 
-    # --------------------------------------------------------
+   
     # Estados visitados
-    # --------------------------------------------------------
+
 
     visitados = set()
 
 
-    # --------------------------------------------------------
     # BÚSQUEDA
-    # --------------------------------------------------------
+
 
     while frontera:
 
@@ -335,9 +329,9 @@ def buscar_ruta(origen, destino):
         )
 
 
-        # ----------------------------------------------------
+
         # Si llegamos al destino
-        # ----------------------------------------------------
+      
 
         if actual == destino:
 
@@ -355,8 +349,7 @@ def buscar_ruta(origen, destino):
                 nodo = padres[nodo]
 
 
-            # La ruta se construye de atrás
-            # hacia adelante, por eso la invertimos.
+            # La ruta se construye de atrás, hacia adelante, por eso la invertimos.
 
             ruta.reverse()
 
@@ -367,9 +360,9 @@ def buscar_ruta(origen, destino):
             )
 
 
-        # ----------------------------------------------------
+
         # Evitar procesar un estado dos veces
-        # ----------------------------------------------------
+
 
         if actual in visitados:
 
@@ -381,18 +374,15 @@ def buscar_ruta(origen, destino):
         )
 
 
-        # ----------------------------------------------------
-        # Aplicar las reglas
-        # ----------------------------------------------------
+        # aquie podemos aplicar las reglas
+
 
         vecinos = aplicar_reglas(
             actual
         )
 
 
-        # ----------------------------------------------------
         # Explorar vecinos
-        # ----------------------------------------------------
 
         for vecino, costo in vecinos:
 
@@ -402,8 +392,7 @@ def buscar_ruta(origen, destino):
             )
 
 
-            # Si encontramos una ruta
-            # más económica hacia el vecino
+            # aquie podemos ver si encontramos una ruta, más económica hacia el vecino
 
             if (
                 vecino not in costos
@@ -421,9 +410,9 @@ def buscar_ruta(origen, destino):
                 )
 
 
-                # ------------------------------------------------
+
                 # Heurística
-                # ------------------------------------------------
+    
 
                 h = heuristica(
                     vecino,
@@ -431,11 +420,11 @@ def buscar_ruta(origen, destino):
                 )
 
 
-                # ------------------------------------------------
+                # ...............................
                 # Función A*
                 #
                 # f(n) = g(n) + h(n)
-                # ------------------------------------------------
+                # ....................................
 
                 f = (
                     nuevo_costo +
@@ -456,16 +445,15 @@ def buscar_ruta(origen, destino):
                 )
 
 
-    # --------------------------------------------------------
+
     # No se encontró una ruta
-    # --------------------------------------------------------
 
     return None, None
 
 
-# ============================================================
+# .....................................
 # 7. INTERFAZ GRÁFICA
-# ============================================================
+# ...................................
 
 class Aplicacion:
 
@@ -499,10 +487,8 @@ class Aplicacion:
             bg="#F2F2F2"
         )
 
-
-        # ----------------------------------------------------
         # TÍTULO
-        # ----------------------------------------------------
+
 
         titulo = tk.Label(
 
@@ -528,9 +514,9 @@ class Aplicacion:
         )
 
 
-        # ----------------------------------------------------
+  
         # PANEL DE SELECCIÓN
-        # ----------------------------------------------------
+     
 
         panel = tk.Frame(
 
@@ -555,9 +541,8 @@ class Aplicacion:
         )
 
 
-        # ----------------------------------------------------
         # ORIGEN
-        # ----------------------------------------------------
+  
 
         tk.Label(
 
@@ -612,9 +597,9 @@ class Aplicacion:
         )
 
 
-        # ----------------------------------------------------
+      
         # DESTINO
-        # ----------------------------------------------------
+ 
 
         tk.Label(
 
@@ -667,9 +652,8 @@ class Aplicacion:
         )
 
 
-        # ----------------------------------------------------
         # BOTÓN
-        # ----------------------------------------------------
+     
 
         boton = tk.Button(
 
@@ -705,9 +689,8 @@ class Aplicacion:
         )
 
 
-        # ----------------------------------------------------
         # CONTENEDOR PRINCIPAL
-        # ----------------------------------------------------
+    
 
         contenido = tk.Frame(
 
@@ -730,10 +713,8 @@ class Aplicacion:
 
         )
 
-
-        # ----------------------------------------------------
         # MAPA
-        # ----------------------------------------------------
+      
 
         mapa_frame = tk.Frame(
 
@@ -783,9 +764,9 @@ class Aplicacion:
         )
 
 
-        # ----------------------------------------------------
+       
         # PANEL RESULTADO
-        # ----------------------------------------------------
+    
 
         resultado_panel = tk.Frame(
 
@@ -818,9 +799,9 @@ class Aplicacion:
         )
 
 
-        # ----------------------------------------------------
+  
         # TÍTULO RESULTADO
-        # ----------------------------------------------------
+
 
         tk.Label(
 
@@ -843,9 +824,8 @@ class Aplicacion:
         )
 
 
-        # ----------------------------------------------------
         # TEXTO RESULTADO
-        # ----------------------------------------------------
+     
 
         self.resultado = tk.Text(
 
@@ -878,9 +858,9 @@ class Aplicacion:
         )
 
 
-        # ----------------------------------------------------
+
         # INFORMACIÓN INICIAL
-        # ----------------------------------------------------
+
 
         self.resultado.insert(
 
@@ -916,23 +896,22 @@ class Aplicacion:
         )
 
 
-        # ----------------------------------------------------
         # DIBUJAR MAPA
-        # ----------------------------------------------------
+
 
         self.dibujar_mapa()
 
 
-    # ========================================================
+    # .................................................................
     # TRANSFORMAR COORDENADAS
-    # ========================================================
+    # ...............................................................
     #
-    # Esta función es la modificación principal.
+    # en este pedaso la función es la modificación principal.
     #
     # Calcula automáticamente la escala necesaria para que
     # TODAS las estaciones entren en el Canvas.
     #
-    # ========================================================
+    # ..................................................................
 
     def transformar_coordenadas(
         self,
@@ -940,17 +919,16 @@ class Aplicacion:
         y
     ):
 
-        # ----------------------------------------------------
+
         # Obtener tamaño actual del Canvas
-        # ----------------------------------------------------
+
 
         ancho = self.canvas.winfo_width()
 
         alto = self.canvas.winfo_height()
 
 
-        # Si todavía no tiene tamaño real,
-        # utilizar valores de respaldo.
+        # Si todavía no tiene tamaño real, utilizar valores de respaldo.
 
         if ancho < 100:
 
@@ -961,9 +939,8 @@ class Aplicacion:
             alto = 600
 
 
-        # ----------------------------------------------------
+
         # Obtener todas las coordenadas
-        # ----------------------------------------------------
 
         coordenadas = [
 
@@ -992,9 +969,9 @@ class Aplicacion:
         )
 
 
-        # ----------------------------------------------------
+    
         # Márgenes
-        # ----------------------------------------------------
+  
 
         margen = 70
 
@@ -1008,9 +985,9 @@ class Aplicacion:
         )
 
 
-        # ----------------------------------------------------
-        # Calcular escala
-        # ----------------------------------------------------
+    
+        # Calcula la escala
+     
 
         escala_x = (
             espacio_ancho /
@@ -1023,8 +1000,7 @@ class Aplicacion:
         )
 
 
-        # Utilizamos la menor escala para garantizar
-        # que todo el mapa entre.
+        # aqui poemos Utilizamos la menor escala para garantizar, que todo el mapa entre.
 
         escala = min(
             escala_x,
@@ -1032,7 +1008,7 @@ class Aplicacion:
         )
 
 
-        # Evitar escalas exageradas
+        # con esto evitaremos escalas exageradas
 
         escala = min(
             escala,
@@ -1040,9 +1016,8 @@ class Aplicacion:
         )
 
 
-        # ----------------------------------------------------
-        # Calcular dimensiones reales
-        # ----------------------------------------------------
+        # Calcularemos dimensiones reales
+ 
 
         ancho_mapa = (
             max_x - min_x
@@ -1053,9 +1028,9 @@ class Aplicacion:
         ) * escala
 
 
-        # ----------------------------------------------------
+
         # Centrar el mapa
-        # ----------------------------------------------------
+   
 
         inicio_x = (
             (ancho - ancho_mapa) / 2
@@ -1066,9 +1041,9 @@ class Aplicacion:
         )
 
 
-        # ----------------------------------------------------
+      
         # Transformar coordenadas
-        # ----------------------------------------------------
+   
 
         nuevo_x = (
 
@@ -1120,9 +1095,8 @@ class Aplicacion:
         )
 
 
-        # ====================================================
         # DIBUJAR CONEXIONES
-        # ====================================================
+ 
 
         for origen, destino, costo in CONEXIONES:
 
@@ -1151,9 +1125,8 @@ class Aplicacion:
             )
 
 
-            # ------------------------------------------------
-            # Determinar si pertenece a la ruta
-            # ------------------------------------------------
+            # Determnar si pertenece a la ruta
+
 
             pertenece = False
 
@@ -1192,9 +1165,9 @@ class Aplicacion:
                         break
 
 
-            # ------------------------------------------------
-            # Estilo de conexión
-            # ------------------------------------------------
+    
+            # para eestilo de conexión
+  
 
             if pertenece:
 
@@ -1209,9 +1182,9 @@ class Aplicacion:
                 ancho = 2
 
 
-            # ------------------------------------------------
+
             # Dibujar línea
-            # ------------------------------------------------
+     
 
             self.canvas.create_line(
 
@@ -1228,9 +1201,8 @@ class Aplicacion:
             )
 
 
-        # ====================================================
         # DIBUJAR ESTACIONES
-        # ====================================================
+
 
         for estacion, datos in ESTACIONES.items():
 
@@ -1250,9 +1222,8 @@ class Aplicacion:
             )
 
 
-            # ------------------------------------------------
             # Color predeterminado
-            # ------------------------------------------------
+     
 
             color = "#1976D2"
 
@@ -1269,9 +1240,8 @@ class Aplicacion:
                 color = "#2E7D32"
 
 
-            # ------------------------------------------------
             # Destino
-            # ------------------------------------------------
+  
 
             if (
                 self.destino.get()
@@ -1281,9 +1251,8 @@ class Aplicacion:
                 color = "#C62828"
 
 
-            # ------------------------------------------------
             # Estación perteneciente a la ruta
-            # ------------------------------------------------
+      
 
             if (
 
@@ -1298,9 +1267,9 @@ class Aplicacion:
                 color = "#FF9800"
 
 
-            # ------------------------------------------------
+     
             # Dibujar punto
-            # ------------------------------------------------
+         
 
             self.canvas.create_oval(
 
@@ -1317,9 +1286,8 @@ class Aplicacion:
             )
 
 
-            # ------------------------------------------------
             # Nombre
-            # ------------------------------------------------
+  
 
             self.canvas.create_text(
 
@@ -1341,9 +1309,8 @@ class Aplicacion:
             )
 
 
-        # ====================================================
         # LEYENDA
-        # ====================================================
+
 
         self.canvas.create_text(
 
@@ -1593,9 +1560,9 @@ class Aplicacion:
         )
 
 
-        # ----------------------------------------------------
-        # Información del algoritmo
-        # ----------------------------------------------------
+        # ------------------------------
+        # Información del algoritm
+        # -----------------------------
 
         self.resultado.insert(
 
@@ -1632,7 +1599,7 @@ class Aplicacion:
         )
 
 
-        # ----------------------------------------------------
+        # ................................................
         # Dibujar ruta
         # ----------------------------------------------------
 
@@ -1643,9 +1610,9 @@ class Aplicacion:
         )
 
 
-# ============================================================
+# ...................................................................
 # 8. EJECUTAR APLICACIÓN
-# ============================================================
+# ....................................................................
 
 if __name__ == "__main__":
 
