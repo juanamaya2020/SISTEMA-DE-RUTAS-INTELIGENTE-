@@ -1,0 +1,2002 @@
+﻿origen;destino;distancia_km;hora;dia_semana;pasajeros;transbordos;clima;congestion;tiempo_min
+Portal Américas;Prado;1,48;13;1;1214;0;Nublado;6;22,88
+Quinta Paredes;Calle 142;12,22;6;0;683;0;Normal;9;38,03
+La Castellana;Quinta Paredes;8,97;19;4;1439;0;Nublado;6;33,51
+Av. Eldorado;7 de Agosto;3,95;15;0;679;1;Normal;7;28,38
+7 de Agosto;Toberín;14,86;8;3;622;2;Normal;10;53,08
+Ricaurte;Av. Jiménez;4,65;7;0;3008;0;Nublado;5;28,78
+Prado;Comuneros;6,28;16;1;1816;1;Normal;7;35,44
+Portal Américas;Calle 142;12,57;10;4;3286;0;Normal;4;31,07
+Portal Américas;Quinta Paredes;5,17;15;6;3447;0;Normal;1;19,74
+Comuneros;7 de Agosto;2,26;15;1;2984;1;Normal;6;27,12
+7 de Agosto;Calle 127;5,69;13;5;2694;1;Lluvia;4;30,04
+Calle 127;Calle 26;10,38;6;6;749;0;Nublado;10;40,25
+Calle 142;Comuneros;8,25;19;4;1329;2;Lluvia;5;40,82
+Prado;Quinta Paredes;15,27;15;0;1502;1;Normal;1;34,33
+7 de Agosto;Calle 26;15,48;21;0;3865;2;Normal;6;47,25
+La Castellana;Calle 127;8,1;10;4;3489;2;Lluvia;5;39,02
+Portal Norte;Prado;18,65;14;1;537;0;Lluvia;1;32,94
+Portal Sur;Calle 142;19,58;9;1;3002;1;Lluvia;6;51,28
+Las Aguas;General Santander;19,32;11;5;1576;1;Lluvia;6;48,23
+Calle 26;Perdomo;3,3;12;0;1684;0;Nublado;2;17,95
+Portal Norte;Calle 142;14,45;6;1;576;0;Lluvia;5;38,65
+7 de Agosto;Portal Sur;5,07;9;5;3914;2;Nublado;6;39,43
+General Santander;La Castellana;2,79;18;2;2034;1;Normal;10;34,12
+Portal Américas;Prado;2,15;15;6;3829;0;Normal;2;17,21
+Calle 127;General Santander;4,49;19;1;3881;0;Normal;9;32,09
+Portal Américas;Quinta Paredes;16,88;7;6;3776;0;Normal;8;46,08
+Comuneros;Toberín;4,13;5;3;1386;1;Normal;6;29,93
+Quinta Paredes;Portal Sur;3,94;14;1;539;2;Nublado;1;24,67
+Toberín;Portal Américas;12,1;21;6;2475;0;Normal;5;30,8
+Calle 100;Calle 142;12,31;12;3;791;2;Normal;5;37,47
+Calle 142;General Santander;13,49;21;2;1368;0;Nublado;3;29,71
+Comuneros;Calle 127;13,76;14;3;1595;0;Normal;5;35,65
+Prado;Calle 142;11,22;21;2;842;1;Lluvia;2;31,48
+Calle 100;Perdomo;16,84;14;4;3605;2;Nublado;6;50,84
+Universidad Nacional;Prado;18,84;9;2;772;0;Nublado;6;42,6
+Las Aguas;La Castellana;14,63;11;5;2897;1;Nublado;3;38,96
+Toberín;Calle 142;13,05;13;0;314;1;Nublado;6;40,39
+Calle 100;Perdomo;11,48;18;4;339;0;Normal;10;42,1
+Quinta Paredes;Toberín;16,86;9;3;822;0;Normal;5;40,17
+La Castellana;NQS Calle 75;13,67;16;6;2593;1;Lluvia;10;50,5
+NQS Calle 75;Calle 100;19,55;10;3;401;0;Nublado;3;38,05
+General Santander;NQS Calle 75;6,07;8;3;3872;0;Lluvia;6;32,21
+Perdomo;Ricaurte;6,8;12;1;396;2;Normal;3;28,36
+Calle 142;7 de Agosto;7,67;21;3;3083;2;Normal;1;27,55
+7 de Agosto;Calle 100;12,03;13;0;744;2;Normal;6;41,8
+General Santander;Las Aguas;19,7;8;3;3984;2;Normal;5;53,31
+Portal Norte;Calle 26;18,59;11;2;2066;0;Lluvia;3;39,69
+Prado;Universidad Nacional;10,64;18;2;1948;2;Normal;6;40,83
+Comuneros;Calle 100;12,69;14;3;2544;0;Normal;2;27,83
+Av. Jiménez;Las Aguas;13,44;19;3;2111;2;Normal;8;49,99
+Calle 100;Calle 142;6,39;15;0;3652;0;Nublado;2;24,02
+Calle 127;Portal Norte;1,88;20;4;3780;0;Normal;6;23,81
+Comuneros;Portal Sur;8,59;9;5;3116;0;Lluvia;5;35,09
+NQS Calle 75;Calle 100;16,28;21;3;505;2;Normal;7;45,53
+Calle 127;Perdomo;13,68;15;6;3951;1;Nublado;6;43,79
+General Santander;Quinta Paredes;9,47;10;5;3828;1;Normal;7;36,97
+Portal Américas;7 de Agosto;15,55;21;3;2867;0;Normal;1;30,83
+NQS Calle 75;7 de Agosto;7,38;7;1;917;0;Normal;6;30,28
+Calle 142;General Santander;8,74;19;3;555;0;Lluvia;8;38,73
+Av. Jiménez;Portal Norte;17,28;17;3;324;1;Normal;8;49,16
+General Santander;Quinta Paredes;15,2;12;3;1198;1;Normal;1;31,73
+Comuneros;Calle 100;16,97;9;4;2487;0;Lluvia;9;50,15
+Portal Norte;Calle 142;13,21;9;6;2191;0;Normal;8;39,93
+Perdomo;Av. Eldorado;7,41;17;2;3380;1;Normal;5;33,72
+Quinta Paredes;Toberín;20;16;1;2962;0;Nublado;10;51,63
+Portal Norte;NQS Calle 75;4,79;5;4;924;0;Normal;6;22,94
+La Castellana;Perdomo;14,29;16;1;2781;2;Lluvia;10;55,21
+Calle 100;Universidad Nacional;3,05;5;2;2658;2;Lluvia;4;31,11
+La Castellana;Calle 142;12,25;12;0;3155;1;Lluvia;5;41,44
+Av. Jiménez;Toberín;7,6;18;5;1817;0;Nublado;7;31,2
+General Santander;Portal Sur;3,01;16;5;3951;1;Nublado;8;34,06
+Calle 26;7 de Agosto;12,7;20;3;2084;2;Nublado;3;39,85
+Calle 142;7 de Agosto;17,75;12;6;2203;2;Nublado;4;45,39
+Portal Sur;Av. Eldorado;4,45;11;2;3567;1;Normal;5;29,39
+7 de Agosto;Quinta Paredes;1,19;11;0;1288;2;Normal;5;27,97
+Portal Sur;Portal Américas;9,52;5;0;1505;0;Normal;2;22,83
+Av. Jiménez;Ricaurte;9,99;21;2;2042;2;Nublado;3;36,1
+7 de Agosto;Universidad Nacional;5,78;8;5;1088;1;Normal;9;38,66
+Calle 100;La Castellana;5,11;20;2;3267;2;Lluvia;5;36,49
+Prado;La Castellana;6,63;16;1;1538;0;Nublado;6;29,2
+Toberín;Quinta Paredes;6,55;9;5;3857;1;Normal;5;33,54
+Portal Sur;Portal Américas;9,37;10;0;1334;1;Normal;1;25,19
+Calle 142;Av. Jiménez;12,96;6;1;911;2;Lluvia;5;47,14
+Prado;Quinta Paredes;15,52;12;6;2440;1;Normal;4;37,87
+Av. Jiménez;General Santander;6,8;6;4;3331;0;Lluvia;6;34,3
+7 de Agosto;Calle 142;3,98;10;4;607;0;Normal;4;20,64
+Portal Sur;Universidad Nacional;1,62;14;5;1458;2;Lluvia;1;24,53
+7 de Agosto;Av. Jiménez;13,56;11;3;770;2;Normal;2;37,27
+Calle 127;Calle 142;2,13;14;4;3367;2;Lluvia;4;29,55
+Universidad Nacional;Comuneros;18,91;21;4;2322;1;Normal;1;38,94
+Av. Eldorado;Las Aguas;5,76;7;1;3061;2;Nublado;5;38,67
+7 de Agosto;Av. Jiménez;1,76;10;3;2425;2;Normal;3;23,87
+Av. Jiménez;General Santander;13,06;20;0;2225;1;Normal;3;34,65
+Calle 100;Av. Eldorado;8,82;20;2;3013;1;Lluvia;5;34,3
+Calle 142;Av. Eldorado;5,8;8;6;1955;2;Lluvia;5;38,43
+Quinta Paredes;Perdomo;8,85;11;4;1781;2;Nublado;6;38,63
+Toberín;La Castellana;6,07;9;2;2094;2;Normal;5;37,12
+Las Aguas;NQS Calle 75;14,49;14;4;356;2;Normal;2;38,33
+Prado;Perdomo;18,99;9;3;3235;1;Nublado;7;51,1
+Portal Sur;Portal Américas;5,63;9;3;1080;2;Nublado;6;38,03
+7 de Agosto;General Santander;7,46;21;2;3660;0;Normal;3;26,08
+Av. Jiménez;Portal Sur;17,44;19;4;2283;1;Normal;9;50,77
+Av. Eldorado;La Castellana;19,63;12;4;1868;0;Lluvia;4;40,11
+Portal Sur;Comuneros;8,34;9;3;451;0;Nublado;9;35,59
+Prado;Perdomo;2,89;19;0;3259;0;Normal;10;34,92
+Calle 142;Portal Sur;15,85;13;2;2852;2;Normal;1;39,71
+Quinta Paredes;Comuneros;19,13;20;6;2516;0;Nublado;2;37,02
+Universidad Nacional;NQS Calle 75;15,19;18;0;3414;2;Nublado;5;47,59
+Universidad Nacional;Portal Norte;1,87;6;2;1768;1;Normal;6;27,95
+Av. Jiménez;Calle 100;4,23;7;4;3866;1;Nublado;6;33,28
+Av. Jiménez;Calle 127;5,41;13;3;1345;2;Normal;7;35,1
+Universidad Nacional;Quinta Paredes;4;19;2;2706;1;Nublado;8;36,22
+Perdomo;Universidad Nacional;4,79;17;6;2279;0;Normal;9;32,14
+Universidad Nacional;Portal Américas;1,42;17;2;333;2;Lluvia;10;41,8
+Las Aguas;Portal Sur;16,82;14;6;3572;0;Nublado;3;35,3
+La Castellana;Las Aguas;5,76;9;5;697;2;Nublado;7;39,26
+Toberín;Av. Jiménez;7,93;9;0;1508;1;Nublado;6;34,38
+Quinta Paredes;Ricaurte;11,09;13;6;973;1;Lluvia;4;37,23
+Universidad Nacional;Av. Eldorado;16,28;19;0;876;0;Lluvia;10;50,15
+Comuneros;Quinta Paredes;7,95;17;0;1383;2;Normal;7;40,89
+7 de Agosto;Av. Jiménez;8,24;16;0;3064;0;Normal;9;38,87
+Quinta Paredes;Av. Eldorado;18,39;12;5;558;2;Lluvia;6;50,02
+General Santander;Prado;3,66;6;2;2317;0;Normal;9;29,98
+Perdomo;Ricaurte;13,74;18;4;3340;2;Normal;8;50,8
+Portal Sur;Las Aguas;8,75;13;0;3127;1;Normal;4;33,27
+Ricaurte;Prado;19,64;16;4;3993;2;Normal;8;56,62
+Prado;Perdomo;2,74;11;5;2919;2;Lluvia;1;27,43
+NQS Calle 75;Calle 127;15,95;11;0;3698;2;Normal;2;42,08
+NQS Calle 75;Av. Eldorado;15,71;5;2;3816;0;Lluvia;5;39,75
+Calle 100;Prado;13,56;5;1;360;1;Nublado;2;32,65
+Portal Norte;Calle 100;6,04;9;5;2024;2;Normal;5;35,04
+Ricaurte;Calle 26;12,28;19;4;1207;2;Normal;10;50,21
+Perdomo;Portal Norte;2,16;20;6;1945;1;Nublado;4;24,75
+Perdomo;Calle 142;18,09;15;4;907;0;Normal;5;38,59
+Quinta Paredes;Av. Eldorado;8,24;21;2;2158;2;Nublado;1;31,15
+Prado;Quinta Paredes;14,7;11;3;2149;0;Normal;7;38,41
+General Santander;Prado;6,94;15;5;1344;1;Lluvia;6;35,99
+Calle 142;Portal Américas;16,8;7;3;695;2;Nublado;6;49,32
+Av. Jiménez;Quinta Paredes;11,67;8;3;1748;2;Lluvia;8;50,95
+Toberín;Universidad Nacional;12,41;16;0;2667;2;Normal;10;51,42
+Prado;Ricaurte;17,06;16;0;3423;1;Nublado;8;52,45
+Las Aguas;Portal Américas;13,82;5;4;2994;2;Normal;2;36,88
+Universidad Nacional;Av. Eldorado;7,67;10;6;886;2;Nublado;1;26,83
+Portal Américas;Portal Norte;2,74;21;1;1840;1;Normal;2;19,56
+Av. Eldorado;Av. Jiménez;12,33;6;1;944;2;Normal;5;40,55
+General Santander;Portal Sur;12,53;18;2;1182;2;Normal;8;45,44
+Av. Jiménez;Portal Sur;11,01;14;0;1203;1;Lluvia;1;28,39
+Universidad Nacional;La Castellana;15,58;13;2;1643;0;Normal;6;37,21
+Calle 127;Comuneros;11,12;12;4;2588;2;Lluvia;1;35,23
+Toberín;General Santander;1,36;7;6;1582;2;Normal;8;35,32
+General Santander;Universidad Nacional;3,19;5;2;1003;2;Normal;6;32,38
+Calle 142;General Santander;17,05;12;3;2712;1;Nublado;4;43,15
+Av. Eldorado;NQS Calle 75;7,33;10;0;2390;2;Normal;5;33,7
+Ricaurte;Portal Américas;14,82;9;1;721;0;Normal;6;38,25
+Portal Américas;Calle 142;4,37;20;3;3390;2;Nublado;4;32,38
+Av. Jiménez;Las Aguas;7,14;15;1;2101;0;Normal;6;27,37
+7 de Agosto;Av. Jiménez;2,07;21;0;1571;1;Normal;1;16,86
+Universidad Nacional;Calle 142;13,25;7;4;2733;2;Normal;9;51,03
+Toberín;Perdomo;18,27;11;2;2778;1;Nublado;1;37,83
+Av. Eldorado;Calle 142;10,59;10;0;1314;2;Normal;4;36,17
+Las Aguas;Calle 100;7,91;14;3;1974;1;Nublado;1;26,6
+Portal Américas;Av. Eldorado;2,25;8;4;3078;1;Normal;10;37,56
+Las Aguas;Calle 127;7,33;9;2;1570;2;Nublado;8;40,85
+Calle 142;Universidad Nacional;11,62;15;6;823;2;Nublado;6;43,24
+Calle 26;Calle 142;13,27;18;4;1782;0;Normal;6;38,75
+Av. Eldorado;Portal Sur;4,65;9;1;616;1;Lluvia;5;31,39
+Quinta Paredes;Calle 26;1,72;15;6;2831;0;Nublado;2;15,39
+Las Aguas;Calle 100;14,7;6;3;1792;2;Nublado;8;51,44
+Perdomo;NQS Calle 75;11,15;14;6;3512;1;Lluvia;2;33,62
+Av. Jiménez;Perdomo;9,77;14;6;1864;2;Nublado;2;34,46
+Las Aguas;Calle 127;17,59;6;5;2268;1;Nublado;5;46,46
+Calle 26;Prado;6,42;10;2;2140;2;Normal;4;30,33
+NQS Calle 75;Perdomo;17,81;5;3;518;1;Nublado;2;36,86
+Calle 142;Ricaurte;5,27;15;0;3737;2;Nublado;7;36,66
+Toberín;Universidad Nacional;18,43;20;5;3704;0;Nublado;4;39,88
+Portal Norte;Calle 142;1,36;11;6;912;2;Lluvia;5;29,94
+Prado;Universidad Nacional;5,52;8;0;1276;1;Nublado;9;37,54
+Prado;Portal Sur;12,34;5;5;2410;2;Normal;2;34,76
+Portal Norte;Las Aguas;7,7;18;1;3021;2;Normal;7;39,54
+Calle 26;Quinta Paredes;10,64;21;4;383;1;Lluvia;1;29,8
+Ricaurte;7 de Agosto;15,2;16;6;576;1;Normal;10;49,47
+Av. Jiménez;Av. Eldorado;3,53;16;4;1686;2;Normal;10;40,32
+Portal Sur;Calle 100;16,42;7;5;3479;1;Normal;6;44,16
+La Castellana;Toberín;7;14;4;1931;2;Normal;1;28,37
+La Castellana;Universidad Nacional;7,78;6;6;2985;1;Normal;7;37,08
+Comuneros;Perdomo;18;17;2;1065;1;Nublado;7;50,18
+Calle 26;7 de Agosto;16,22;18;0;2063;2;Lluvia;6;51,75
+Av. Eldorado;Prado;2,52;14;2;2126;2;Nublado;2;25,83
+Ricaurte;Perdomo;1,8;16;4;2081;1;Nublado;5;25,6
+Portal Américas;Comuneros;7,9;10;0;884;2;Nublado;4;31,76
+Calle 142;NQS Calle 75;15,79;16;2;1868;2;Normal;6;48,63
+Ricaurte;Portal Américas;9,43;7;4;863;2;Normal;7;42,06
+NQS Calle 75;Prado;1,49;10;3;2420;1;Lluvia;1;19,48
+7 de Agosto;Perdomo;5,08;14;5;2311;0;Normal;7;25,96
+Calle 100;Perdomo;19,95;15;5;1723;2;Normal;5;48,04
+Universidad Nacional;Calle 100;14,52;10;6;1780;2;Normal;2;38,75
+NQS Calle 75;Portal Sur;1,5;16;3;3591;2;Normal;5;29,48
+Comuneros;Portal Sur;10,99;18;6;2654;0;Normal;7;37,32
+Perdomo;Portal Américas;13,92;16;1;3896;2;Nublado;6;49,53
+Calle 127;General Santander;10,55;6;6;808;2;Normal;6;39,65
+NQS Calle 75;Ricaurte;19;21;2;3764;0;Normal;6;45,01
+7 de Agosto;Calle 127;12,88;7;4;2925;0;Nublado;9;42,17
+Las Aguas;Portal Américas;7,41;6;6;3838;0;Normal;10;39,8
+7 de Agosto;La Castellana;15,57;18;4;2917;0;Normal;10;47,52
+Portal Américas;Universidad Nacional;10,18;17;2;2157;0;Nublado;6;34,46
+Portal Sur;Perdomo;4,88;9;2;3828;2;Normal;7;40,6
+Calle 127;Ricaurte;10,78;8;2;1290;1;Normal;8;40,06
+Prado;Toberín;6,51;17;6;2820;1;Normal;6;35,29
+Av. Jiménez;Av. Eldorado;4,61;10;3;2408;1;Normal;3;24,4
+Calle 142;Comuneros;10,6;12;1;2689;1;Normal;3;31,51
+Portal Américas;Portal Sur;6,43;5;6;740;1;Normal;3;26,02
+Comuneros;Ricaurte;1,86;6;4;2601;0;Normal;7;24,5
+Calle 26;Perdomo;15,52;13;6;2852;2;Nublado;2;42,52
+Comuneros;Ricaurte;16,1;15;4;1797;0;Normal;5;36,12
+Toberín;Portal Américas;1,74;15;6;2240;2;Normal;5;29,94
+Calle 127;Av. Eldorado;18,7;15;1;1909;2;Nublado;3;45,57
+Calle 26;Portal Américas;11,11;14;3;3641;0;Normal;6;32,45
+General Santander;Av. Jiménez;6,85;5;4;2243;1;Lluvia;7;38,53
+Av. Jiménez;Portal Américas;5,32;6;4;2267;0;Nublado;10;36,49
+Comuneros;Calle 127;16,61;12;0;2645;2;Normal;1;38,77
+General Santander;Calle 127;8,85;11;3;2355;2;Lluvia;7;44,43
+Toberín;Calle 127;10,85;15;5;2259;2;Normal;2;33,6
+Quinta Paredes;Av. Eldorado;11,38;13;4;2283;0;Lluvia;3;31,32
+NQS Calle 75;Universidad Nacional;15,65;11;5;3187;1;Normal;3;38
+7 de Agosto;Universidad Nacional;3,32;17;3;3652;1;Lluvia;6;33,22
+Universidad Nacional;Calle 142;7,58;19;5;1350;2;Normal;6;39,35
+7 de Agosto;Quinta Paredes;14,23;9;0;2821;2;Nublado;6;46,12
+Calle 26;NQS Calle 75;13,12;6;0;1992;1;Nublado;5;40,97
+Calle 127;Portal Norte;19,33;10;3;2974;1;Normal;2;41,13
+Universidad Nacional;Av. Eldorado;6,42;6;6;666;2;Nublado;9;43,19
+Toberín;Calle 100;8,94;10;0;3725;1;Nublado;2;31,53
+Universidad Nacional;Toberín;1,18;8;2;1465;1;Lluvia;9;34,98
+Calle 127;Calle 26;9,89;11;6;761;1;Normal;4;31,4
+Calle 100;Portal Norte;15;14;4;3062;0;Normal;7;40,26
+Comuneros;General Santander;10,79;7;3;3041;0;Normal;6;35,05
+NQS Calle 75;Portal Norte;5,95;12;3;3387;1;Lluvia;3;30,09
+Av. Jiménez;Portal Norte;5,97;16;5;1267;0;Nublado;8;31,75
+Comuneros;Calle 26;18,54;14;5;780;2;Lluvia;3;45,54
+NQS Calle 75;Portal Américas;19,19;20;1;2163;2;Lluvia;3;47,63
+Quinta Paredes;Portal Sur;15,39;11;6;1313;2;Nublado;7;48,84
+Calle 26;Perdomo;11,04;16;0;2610;0;Normal;9;41,78
+La Castellana;Av. Jiménez;11,2;10;2;3799;2;Normal;6;41,07
+Av. Jiménez;Portal Sur;2,73;21;3;3612;0;Normal;5;22,31
+Av. Jiménez;Toberín;11,62;14;5;389;1;Normal;1;28,37
+Av. Jiménez;Calle 142;1,86;16;5;561;2;Lluvia;5;34,05
+Portal Sur;Toberín;6,45;10;6;854;2;Lluvia;6;39,18
+Ricaurte;Comuneros;9,52;17;3;628;2;Lluvia;9;46,3
+Ricaurte;Prado;4,39;17;4;821;2;Lluvia;5;36,26
+Universidad Nacional;Perdomo;13,8;18;4;1853;0;Normal;7;37,93
+La Castellana;Prado;1,61;18;4;3437;0;Normal;5;21,62
+Toberín;Perdomo;12,36;6;1;3333;0;Normal;6;37,35
+Toberín;Calle 127;10,57;14;1;3641;2;Nublado;5;41,08
+Av. Eldorado;NQS Calle 75;6,73;9;5;2435;0;Normal;7;29,91
+Av. Jiménez;Calle 100;12,89;18;4;2330;0;Lluvia;10;47,45
+Calle 26;Av. Eldorado;14,23;18;1;1528;1;Normal;9;46,83
+NQS Calle 75;Universidad Nacional;17,29;9;6;2196;0;Nublado;8;46,54
+Calle 127;Comuneros;5,61;11;2;2948;0;Lluvia;7;31,29
+Quinta Paredes;La Castellana;1,98;17;5;2777;2;Normal;5;29,84
+Av. Jiménez;Quinta Paredes;5,12;11;6;1663;1;Lluvia;1;22,82
+La Castellana;Prado;15,19;20;1;3149;2;Nublado;4;45,55
+Quinta Paredes;Av. Eldorado;15,73;17;3;2485;2;Normal;7;49,5
+Portal Sur;Perdomo;2,87;20;6;3739;1;Lluvia;3;25,77
+Toberín;Av. Jiménez;17,42;9;0;1368;2;Lluvia;9;58,35
+Universidad Nacional;Calle 127;4,73;12;3;2633;0;Normal;6;27,61
+Av. Eldorado;7 de Agosto;15,5;20;5;2928;2;Normal;2;40,6
+Ricaurte;Calle 100;3,66;20;1;3942;2;Lluvia;1;28,29
+Calle 142;Toberín;15,52;18;1;3751;2;Normal;10;54,58
+La Castellana;Calle 26;9,66;6;4;2912;2;Lluvia;8;48,77
+Portal Norte;Portal Américas;11,11;18;0;368;2;Nublado;9;49,29
+Portal Norte;Calle 26;16,45;18;6;1034;0;Lluvia;9;46,67
+La Castellana;Las Aguas;11;16;2;3556;1;Normal;8;43,05
+NQS Calle 75;Portal Américas;6,7;7;5;3815;2;Nublado;5;38,01
+Comuneros;Quinta Paredes;10,04;5;5;1001;0;Normal;4;27,76
+Av. Eldorado;Av. Jiménez;19,57;8;4;474;0;Normal;10;51,45
+Portal Sur;7 de Agosto;1,88;7;5;1448;2;Nublado;5;29,59
+Av. Eldorado;Portal Norte;19,27;9;6;3661;2;Lluvia;5;53,91
+Av. Jiménez;NQS Calle 75;11,77;17;5;3972;2;Normal;10;50,41
+Calle 142;Calle 26;15,16;16;0;700;1;Normal;5;39,88
+Las Aguas;Portal Américas;8,54;15;0;2897;1;Nublado;4;32
+Ricaurte;Quinta Paredes;18,88;18;1;3084;2;Nublado;5;52,87
+Universidad Nacional;NQS Calle 75;14,55;7;2;931;1;Nublado;10;48,13
+Comuneros;Av. Eldorado;7,85;7;0;1562;1;Normal;7;34,64
+Calle 142;Calle 100;9,19;21;3;723;0;Normal;5;26,04
+Las Aguas;Av. Eldorado;17,41;5;2;1994;1;Nublado;6;46,49
+NQS Calle 75;Av. Jiménez;10,9;17;1;868;1;Normal;8;39,44
+Calle 100;General Santander;6,24;14;3;3505;0;Normal;2;22,38
+Portal Sur;Las Aguas;12,72;19;0;854;1;Normal;8;42,27
+Las Aguas;Comuneros;16,28;15;3;1671;1;Lluvia;7;47,62
+Las Aguas;Calle 127;6,71;11;3;1586;0;Lluvia;3;24,3
+Portal Américas;Portal Sur;19,39;12;2;1840;1;Lluvia;4;45,09
+Av. Jiménez;La Castellana;12,25;10;5;3444;2;Normal;6;43
+La Castellana;Perdomo;16,16;7;6;3772;1;Nublado;6;47,46
+NQS Calle 75;7 de Agosto;13,51;18;6;1844;0;Normal;9;42,29
+Comuneros;Quinta Paredes;10,63;18;4;450;1;Nublado;9;43,27
+Calle 142;Prado;15,61;16;1;2950;2;Normal;10;56,12
+Comuneros;Av. Eldorado;19,35;18;0;343;0;Normal;9;48,83
+Quinta Paredes;Av. Jiménez;14,07;12;3;1832;1;Normal;6;40,26
+Calle 26;Calle 127;7,55;5;3;728;1;Normal;1;21,45
+Calle 127;Ricaurte;6,93;19;6;1147;2;Normal;8;38,92
+Perdomo;Av. Eldorado;2,28;6;6;3211;0;Normal;7;27,79
+Calle 100;NQS Calle 75;10,8;10;2;2593;1;Lluvia;2;34,17
+Portal Américas;Calle 100;4,54;18;3;419;2;Nublado;6;34,57
+General Santander;Comuneros;1,08;11;1;1440;2;Lluvia;1;23,45
+Quinta Paredes;Calle 100;7,95;11;3;766;1;Nublado;4;29,69
+Portal Américas;Av. Eldorado;12,34;17;4;767;1;Normal;8;42,9
+Universidad Nacional;Las Aguas;12,21;9;2;782;0;Normal;6;34,39
+Calle 127;Calle 26;8,38;9;4;1871;1;Normal;10;42,35
+Portal Américas;Calle 100;11,54;20;2;874;0;Normal;4;29,28
+Ricaurte;Portal Norte;10,21;11;6;1872;2;Nublado;4;36,74
+Portal Sur;General Santander;14,49;19;3;985;0;Nublado;6;37,85
+7 de Agosto;NQS Calle 75;11,21;10;6;2173;2;Nublado;7;43,58
+Calle 26;Prado;11,88;13;6;2524;1;Nublado;7;38,83
+Perdomo;Quinta Paredes;5,15;18;0;3314;2;Nublado;7;41,08
+Toberín;Perdomo;5,99;7;3;3844;0;Nublado;6;30,13
+Av. Jiménez;Ricaurte;17,36;18;1;2823;0;Nublado;6;44,74
+Av. Jiménez;Ricaurte;11,11;10;2;3183;1;Normal;3;34,34
+Calle 26;Prado;3,58;18;0;1435;2;Normal;6;32,51
+Av. Eldorado;NQS Calle 75;15,47;17;3;882;2;Nublado;10;54,18
+Perdomo;Calle 142;13,04;7;3;2411;2;Normal;7;46,72
+Portal Sur;Av. Eldorado;12,06;7;5;2177;2;Nublado;7;47,98
+Quinta Paredes;Comuneros;5,14;18;6;1167;1;Normal;7;32,13
+Av. Jiménez;Calle 127;11,76;20;6;1707;2;Nublado;1;32,04
+Perdomo;Portal Norte;3,36;10;3;2169;0;Lluvia;4;22,28
+Calle 127;Universidad Nacional;4,02;13;0;2981;1;Normal;3;24,87
+Portal Américas;Calle 100;1,98;14;5;3164;0;Normal;1;15,43
+Portal Norte;La Castellana;10,06;9;4;1226;2;Nublado;5;38,12
+Av. Eldorado;Prado;19,77;18;5;841;1;Normal;8;49,39
+Prado;Portal Américas;6,95;14;1;1867;0;Nublado;6;27,32
+Calle 26;Av. Jiménez;1,16;10;3;1738;2;Normal;6;27,59
+General Santander;Las Aguas;14,04;11;0;3972;0;Normal;1;29,51
+Comuneros;Ricaurte;19,3;15;6;872;0;Normal;1;31,61
+Las Aguas;Portal Américas;14,7;14;6;3128;0;Lluvia;6;42,21
+La Castellana;Calle 26;12,53;11;5;1904;1;Nublado;7;42,49
+NQS Calle 75;Portal Sur;8,33;12;3;2913;2;Normal;1;31,65
+Av. Eldorado;Calle 127;8,35;18;2;2537;2;Normal;8;45,13
+Calle 142;Portal Norte;12,16;5;2;1183;0;Lluvia;7;37,46
+Universidad Nacional;Calle 26;15,58;18;5;1947;0;Nublado;9;46,3
+7 de Agosto;Calle 142;6,89;21;1;3609;0;Nublado;4;27,08
+Portal Américas;Calle 142;6,89;18;5;3767;0;Normal;5;31,26
+Prado;Perdomo;12,63;6;2;3028;2;Nublado;6;44,73
+Calle 127;Portal Norte;4,11;16;4;2418;2;Normal;7;35,15
+7 de Agosto;Prado;15,66;5;2;3605;1;Normal;1;33,76
+Av. Jiménez;Calle 142;10,43;21;2;527;1;Lluvia;2;30,3
+7 de Agosto;Prado;17,99;8;1;3334;2;Normal;5;48,95
+Portal Sur;Ricaurte;8,28;9;1;3812;0;Nublado;10;41,66
+General Santander;NQS Calle 75;7,11;18;5;1610;1;Lluvia;9;41,31
+Calle 26;Toberín;4,41;21;0;1942;0;Lluvia;7;28,72
+Universidad Nacional;Av. Eldorado;2,64;19;0;1811;0;Normal;7;27,4
+NQS Calle 75;Perdomo;8;20;6;3478;0;Nublado;5;30,64
+NQS Calle 75;Calle 127;1,12;18;0;1254;2;Normal;10;38,84
+Av. Eldorado;Portal Norte;15,42;17;6;3323;2;Normal;6;48,82
+NQS Calle 75;General Santander;10,35;6;1;3214;1;Normal;6;40,37
+Calle 26;General Santander;14,32;16;3;3363;0;Nublado;9;44,1
+Comuneros;Calle 142;12,25;6;3;3013;0;Normal;7;39,9
+Comuneros;Av. Eldorado;7,04;13;1;605;0;Normal;7;28,84
+Calle 127;Prado;4,12;19;2;1965;0;Nublado;6;27,38
+Perdomo;7 de Agosto;17,2;7;1;3607;2;Normal;10;58,57
+Toberín;La Castellana;16,88;15;1;673;2;Normal;3;40,66
+Toberín;Universidad Nacional;5,94;10;0;1956;1;Nublado;5;28,96
+Perdomo;Prado;16,27;9;0;348;0;Lluvia;6;40,72
+Comuneros;Ricaurte;14,04;7;4;2700;1;Lluvia;5;41,98
+Calle 142;La Castellana;18,15;19;6;827;0;Lluvia;7;44,95
+Perdomo;Toberín;4,19;18;6;3267;1;Normal;8;35,87
+Calle 100;Ricaurte;5,08;10;2;1446;1;Lluvia;1;24,2
+Las Aguas;NQS Calle 75;13,3;20;3;3915;2;Normal;1;35,38
+Calle 127;General Santander;4,79;21;1;2883;2;Nublado;4;32,84
+Ricaurte;Portal Sur;11,35;20;2;2616;2;Normal;3;35,05
+Av. Eldorado;Las Aguas;5,16;13;0;3612;1;Nublado;7;34,18
+NQS Calle 75;Calle 100;2,9;12;2;2485;2;Normal;2;25,11
+Comuneros;Ricaurte;18,77;10;1;1268;2;Normal;6;49,63
+Av. Jiménez;Portal Norte;14,37;16;4;2608;0;Nublado;6;41,25
+Portal Sur;Quinta Paredes;6,87;20;0;669;0;Normal;2;17,94
+Portal Sur;Portal Norte;7,3;11;6;834;1;Nublado;7;35,37
+Av. Eldorado;Toberín;1,42;9;6;754;2;Lluvia;5;31,26
+Comuneros;Av. Jiménez;2,92;14;2;858;0;Nublado;4;21,04
+Portal Sur;Av. Eldorado;4,31;16;1;3026;2;Lluvia;8;41,31
+Universidad Nacional;Calle 127;4,38;5;5;2646;1;Lluvia;7;36
+Toberín;Calle 100;12,45;12;5;2616;0;Lluvia;2;30,22
+Calle 142;NQS Calle 75;7,59;15;1;2905;0;Lluvia;6;32,91
+Av. Eldorado;Perdomo;1,22;11;1;3139;0;Normal;7;22,35
+Comuneros;Prado;16,75;12;1;2148;0;Nublado;1;30,93
+Av. Eldorado;7 de Agosto;19,08;7;2;996;1;Normal;5;45,46
+Calle 142;Av. Eldorado;12,29;20;5;426;1;Lluvia;2;33,32
+General Santander;Calle 100;2,02;15;1;1078;1;Nublado;6;28,12
+Quinta Paredes;7 de Agosto;13,55;14;1;692;0;Normal;5;34,02
+Calle 127;Toberín;7,86;18;0;1506;2;Nublado;8;41,69
+Portal Norte;La Castellana;4,25;14;0;2239;0;Normal;4;21,44
+7 de Agosto;Calle 142;13,2;17;1;1819;1;Normal;8;42,47
+Perdomo;Portal Américas;6;13;4;552;0;Nublado;6;24,95
+Ricaurte;Quinta Paredes;8,87;12;4;549;1;Lluvia;4;34,32
+Portal Sur;Av. Jiménez;17,75;20;2;623;1;Lluvia;6;44,27
+Av. Jiménez;Calle 26;16,21;9;0;3401;1;Normal;6;47,56
+La Castellana;Calle 127;1,81;7;5;2083;0;Lluvia;10;32,41
+Las Aguas;7 de Agosto;7,08;7;0;1889;2;Normal;7;41,04
+Calle 26;Perdomo;18,43;5;6;3168;2;Nublado;7;52,41
+General Santander;Calle 127;3,82;8;0;2604;0;Nublado;9;34,38
+General Santander;7 de Agosto;8,28;20;4;2794;1;Normal;3;28,56
+Las Aguas;Portal Américas;13,94;17;0;1921;1;Nublado;5;42,11
+7 de Agosto;Ricaurte;1,38;14;2;1448;1;Lluvia;6;26,39
+NQS Calle 75;Calle 127;6,71;19;6;3682;1;Normal;8;38,8
+Calle 142;La Castellana;9,39;18;5;2284;2;Lluvia;5;42,26
+Calle 100;Calle 142;6,91;21;3;855;2;Lluvia;1;28,05
+La Castellana;Toberín;5,74;19;0;1776;2;Normal;7;39,28
+Calle 26;Comuneros;13,07;8;5;425;0;Normal;9;40,47
+Portal Sur;Av. Jiménez;11,48;16;1;3731;1;Nublado;10;46,67
+Portal Norte;Comuneros;1,94;11;6;1206;2;Normal;2;21,71
+General Santander;Calle 26;1,38;5;3;841;2;Normal;7;28,22
+7 de Agosto;Las Aguas;16,3;14;5;3205;2;Normal;4;45,62
+Perdomo;7 de Agosto;5,15;14;5;2432;2;Normal;1;23,68
+Ricaurte;Quinta Paredes;13,3;14;2;3103;0;Normal;3;32,93
+Portal Américas;Av. Eldorado;17,37;13;5;3212;2;Normal;2;42,12
+NQS Calle 75;Toberín;16,3;17;5;1609;2;Normal;5;47,21
+Universidad Nacional;7 de Agosto;18,23;17;3;3317;0;Nublado;9;51,29
+Av. Eldorado;NQS Calle 75;14,04;20;5;1768;2;Normal;2;38,38
+Quinta Paredes;Calle 100;6,58;20;1;3334;1;Nublado;5;32,9
+Calle 100;Av. Eldorado;13,43;12;2;1214;2;Lluvia;4;43,41
+Av. Eldorado;Ricaurte;5,95;14;3;3786;0;Normal;7;30,44
+Av. Jiménez;Las Aguas;2,35;11;4;790;2;Normal;3;24,11
+Calle 127;Portal Américas;19,85;15;3;2632;1;Normal;7;49,78
+Calle 142;Portal Sur;7,32;10;2;2898;0;Normal;3;22,77
+Calle 100;Av. Jiménez;15,53;20;6;3427;0;Normal;4;36,05
+Comuneros;General Santander;19,34;17;0;454;2;Normal;7;54,32
+Av. Eldorado;Calle 26;4,62;5;5;3304;0;Normal;3;20,41
+Prado;Comuneros;10,56;14;1;567;0;Normal;3;25,54
+Calle 26;Las Aguas;10,96;18;5;848;1;Lluvia;8;43,35
+La Castellana;Calle 100;19,01;17;0;1235;0;Nublado;6;42,94
+Portal Norte;Av. Jiménez;10,59;8;2;3212;2;Nublado;8;48,96
+7 de Agosto;Quinta Paredes;12,84;6;5;742;2;Lluvia;5;45,64
+General Santander;Perdomo;8,22;13;3;3174;0;Normal;6;30,82
+Universidad Nacional;General Santander;13,57;21;2;2850;2;Nublado;4;43,1
+Prado;Calle 26;14,66;8;2;766;0;Normal;9;41,6
+7 de Agosto;Calle 26;19,49;16;5;1978;1;Normal;9;53,35
+La Castellana;Portal Sur;7,28;5;0;3051;0;Lluvia;7;34,11
+Portal Sur;Calle 127;19,04;21;0;3263;2;Normal;3;46,29
+Perdomo;Universidad Nacional;6,02;6;0;3630;0;Lluvia;7;34,29
+Av. Eldorado;General Santander;15,03;8;6;3405;0;Normal;6;40,98
+Calle 100;Av. Eldorado;7,79;19;4;1398;2;Normal;7;38,75
+Comuneros;Portal Américas;19,28;13;6;1879;2;Lluvia;7;54,32
+Calle 100;Prado;3,52;6;6;952;0;Normal;9;30,07
+Av. Jiménez;Perdomo;4,44;17;6;1768;2;Normal;10;43,1
+Calle 127;Portal Sur;18,49;8;3;2105;0;Normal;10;49,27
+Calle 26;Av. Jiménez;14,75;12;5;3876;1;Nublado;6;44,19
+Prado;General Santander;13,57;12;3;1716;2;Nublado;4;39,43
+Quinta Paredes;Las Aguas;2,04;10;4;3776;1;Lluvia;7;31,05
+Portal Sur;Av. Eldorado;5,58;13;0;2376;0;Nublado;4;23,81
+NQS Calle 75;Calle 142;9,72;19;0;3808;1;Normal;5;38,77
+Portal Américas;Portal Norte;2,95;18;0;2582;2;Normal;5;33,21
+Las Aguas;Universidad Nacional;17,91;11;5;3050;1;Lluvia;3;44,54
+NQS Calle 75;Perdomo;7,31;20;5;2991;1;Nublado;1;23,99
+NQS Calle 75;Portal Norte;7,49;14;4;2438;1;Nublado;1;26,93
+Portal Sur;Calle 127;16,61;18;0;1341;2;Normal;5;48,44
+Comuneros;La Castellana;9,68;11;5;1684;0;Nublado;1;24,94
+Av. Jiménez;Prado;15,67;19;3;2997;2;Lluvia;6;53,57
+Portal Norte;Calle 26;14,99;18;6;2696;1;Lluvia;6;47,45
+Calle 100;Calle 127;2,97;15;4;3910;1;Normal;5;28,84
+NQS Calle 75;7 de Agosto;8,56;15;2;2154;0;Normal;5;28,94
+Calle 26;Universidad Nacional;17,02;15;5;3318;2;Nublado;2;41,58
+Universidad Nacional;Ricaurte;18,5;9;5;2962;0;Nublado;10;52,29
+Prado;Ricaurte;11,68;18;5;3363;2;Normal;8;49,07
+Calle 26;Prado;1,48;9;0;3045;0;Normal;6;26,37
+7 de Agosto;Calle 127;16,95;14;1;3386;2;Normal;7;50,02
+Las Aguas;Quinta Paredes;17,43;17;1;2392;2;Normal;10;55,23
+Comuneros;Portal Américas;8,91;15;4;520;0;Nublado;2;23,56
+Perdomo;NQS Calle 75;18,32;16;6;2710;2;Nublado;6;53,63
+La Castellana;Universidad Nacional;9,53;7;1;1011;2;Nublado;8;42,56
+7 de Agosto;Quinta Paredes;6,02;10;4;3765;1;Normal;4;29,7
+Calle 127;Toberín;3,92;15;4;508;2;Nublado;6;31,34
+Av. Jiménez;Quinta Paredes;7,8;15;4;1200;0;Nublado;7;30,89
+General Santander;Quinta Paredes;11,2;7;2;1206;0;Nublado;7;36,23
+La Castellana;Las Aguas;11,08;5;0;3039;1;Normal;6;37,93
+Las Aguas;NQS Calle 75;19,22;15;3;3561;0;Normal;5;42,47
+Portal Norte;Calle 26;16,62;16;4;3588;2;Normal;5;47,79
+Portal Américas;La Castellana;7,09;7;0;985;2;Nublado;10;43,24
+Portal Américas;La Castellana;17,43;18;6;725;0;Nublado;10;50,16
+General Santander;Calle 142;15,19;9;0;2180;2;Normal;5;44,08
+Calle 100;7 de Agosto;11,6;12;2;1969;1;Normal;4;33,51
+Portal Norte;Comuneros;13,79;5;5;3250;2;Normal;6;45,11
+Calle 142;Ricaurte;18,63;8;2;3523;2;Normal;5;49,99
+Perdomo;Comuneros;8,51;5;3;940;2;Normal;6;36,33
+Quinta Paredes;Universidad Nacional;19,24;9;2;3074;2;Nublado;5;52,4
+Quinta Paredes;Calle 127;3,34;5;4;2743;1;Nublado;1;20,05
+Ricaurte;La Castellana;8,84;21;1;959;0;Normal;7;29,88
+Prado;Calle 100;13,75;6;6;3376;2;Normal;9;50,22
+Calle 142;7 de Agosto;2,87;20;2;1762;0;Nublado;2;15,57
+Las Aguas;Calle 142;18,1;15;3;2145;1;Nublado;3;41,48
+Calle 127;Av. Jiménez;11,77;15;3;990;0;Normal;7;33,15
+Portal Américas;General Santander;6,26;16;1;3083;2;Normal;8;41,22
+Ricaurte;Universidad Nacional;10,25;8;1;2944;2;Normal;7;45,58
+Calle 127;Quinta Paredes;4,73;7;5;608;0;Lluvia;10;34,07
+Av. Jiménez;Portal Américas;8,7;11;0;2559;1;Nublado;5;33,53
+Calle 127;Ricaurte;8,46;14;1;2203;2;Nublado;4;34,82
+Portal Norte;NQS Calle 75;17,11;10;6;2405;0;Normal;2;33,35
+Av. Jiménez;Calle 127;14,98;20;2;465;0;Nublado;2;28,27
+Ricaurte;NQS Calle 75;1,81;11;4;3541;1;Normal;4;25,36
+Toberín;Av. Eldorado;2,96;21;5;3698;1;Lluvia;3;26,9
+Av. Jiménez;Calle 100;8,16;17;2;2707;2;Lluvia;5;41,21
+Comuneros;NQS Calle 75;10,81;16;6;3854;1;Normal;8;44,79
+Portal Norte;Calle 26;17,76;19;1;1242;0;Nublado;7;43,21
+Calle 100;Portal Américas;7,88;8;5;1243;1;Lluvia;10;42,55
+Portal Sur;Portal Américas;5;10;5;3713;1;Normal;1;21,06
+Av. Jiménez;Calle 100;3,56;21;0;3948;2;Normal;2;25,82
+Calle 100;Calle 26;19,21;5;5;3281;2;Lluvia;1;44,39
+Las Aguas;Portal Sur;17,48;10;1;3701;1;Nublado;7;48,42
+Calle 100;Las Aguas;13,53;13;1;3266;2;Normal;4;41,47
+Calle 142;NQS Calle 75;8,19;9;0;367;0;Nublado;9;36,76
+Calle 127;Las Aguas;2,83;20;4;2756;0;Lluvia;5;25,06
+Prado;Calle 142;10,16;9;4;2508;0;Lluvia;10;44,37
+Calle 26;General Santander;8,04;6;5;2470;1;Normal;8;40,06
+Comuneros;Ricaurte;12,19;8;3;848;1;Normal;6;40,57
+Calle 142;Universidad Nacional;12,37;18;2;1074;0;Nublado;5;34,93
+Prado;Calle 26;1,14;11;5;3594;1;Normal;1;16,63
+Portal Américas;Av. Jiménez;5,82;18;4;1797;2;Normal;10;42,78
+La Castellana;General Santander;11,49;20;1;1816;2;Nublado;3;38,78
+Av. Jiménez;Ricaurte;15,71;17;5;865;2;Normal;6;46,77
+Calle 100;Prado;5,07;17;6;1686;2;Nublado;10;44,06
+Calle 100;Comuneros;19,33;5;6;673;0;Normal;5;39,03
+Calle 142;7 de Agosto;5,21;7;4;454;2;Normal;8;38,43
+Calle 26;Universidad Nacional;14,52;6;6;3659;0;Nublado;8;42,39
+Calle 26;Universidad Nacional;4,7;21;4;3160;0;Nublado;6;25,38
+NQS Calle 75;Portal Norte;19,54;7;2;3493;1;Normal;8;52,6
+La Castellana;Calle 26;1,29;7;0;2551;1;Nublado;9;35,57
+Ricaurte;Portal Américas;19,3;13;1;2783;0;Normal;4;39,61
+7 de Agosto;Calle 100;8,74;8;4;596;2;Normal;5;38,26
+7 de Agosto;Quinta Paredes;16,45;13;5;2113;1;Nublado;7;44,55
+Av. Eldorado;Perdomo;13,95;5;3;776;1;Normal;6;40,04
+NQS Calle 75;Portal Américas;16,2;18;2;2415;2;Normal;7;49,54
+Calle 142;Comuneros;13,8;15;0;2571;0;Normal;3;29,99
+Av. Jiménez;7 de Agosto;4,47;11;3;3319;0;Normal;2;20,8
+La Castellana;NQS Calle 75;4,85;12;6;2833;1;Normal;1;20,12
+Calle 142;Portal Sur;12,66;6;6;2275;1;Nublado;8;46,65
+Av. Jiménez;7 de Agosto;10,33;21;2;1929;0;Nublado;2;24,1
+General Santander;Portal Sur;18,85;6;4;1722;1;Lluvia;6;50,14
+Prado;Calle 26;9,74;5;0;3061;0;Normal;1;22,75
+Las Aguas;7 de Agosto;4,56;13;1;1403;1;Lluvia;3;25,98
+Portal Sur;General Santander;5;16;2;3799;1;Normal;6;33,4
+Av. Jiménez;NQS Calle 75;16,47;13;6;1265;2;Normal;4;41,58
+Calle 127;Portal Sur;16,31;10;3;2346;0;Lluvia;7;44,13
+Quinta Paredes;Av. Eldorado;15,92;14;2;2602;2;Normal;1;38,94
+Toberín;La Castellana;16,46;20;6;2879;0;Normal;3;33,47
+Ricaurte;Quinta Paredes;11,59;13;2;381;1;Normal;7;38,26
+Las Aguas;La Castellana;11,96;10;6;1465;1;Normal;5;35,42
+Perdomo;Calle 142;8,24;14;3;2887;0;Lluvia;6;34,31
+Av. Eldorado;General Santander;12,99;17;6;592;0;Normal;6;34,89
+Portal Américas;Universidad Nacional;14,5;17;2;3935;1;Nublado;7;47,85
+Calle 26;Perdomo;8,87;10;6;394;0;Nublado;6;28,74
+Calle 142;La Castellana;4,17;8;0;561;1;Nublado;5;29,85
+Calle 26;Calle 142;2,97;9;0;2982;1;Normal;6;31,05
+Perdomo;Calle 127;3,49;10;0;443;2;Normal;3;26,94
+Perdomo;Quinta Paredes;18,76;19;1;3157;2;Normal;9;57,33
+Portal Américas;Av. Jiménez;9,26;14;2;2272;2;Normal;1;30,01
+Ricaurte;General Santander;5,94;14;0;300;2;Lluvia;7;36,53
+Universidad Nacional;Portal Sur;11,17;20;6;2254;1;Normal;4;34,72
+Las Aguas;NQS Calle 75;16,14;16;1;1986;2;Normal;6;47,07
+Portal Américas;Comuneros;16,74;12;2;624;1;Nublado;5;42,33
+Las Aguas;7 de Agosto;6,41;13;3;1070;0;Normal;3;19,8
+Perdomo;Las Aguas;9,6;20;1;1613;0;Normal;5;26,97
+Prado;Universidad Nacional;6,11;19;5;333;0;Normal;5;25,78
+Av. Eldorado;General Santander;6,92;20;2;2199;2;Nublado;3;30,21
+Calle 127;Toberín;6,06;17;0;2524;1;Normal;7;36,24
+Portal Norte;Prado;19,52;12;3;3458;1;Normal;1;37,83
+Prado;Calle 26;13,65;11;3;1893;2;Lluvia;3;40,01
+Toberín;Quinta Paredes;10,9;13;3;2915;1;Normal;1;30,12
+La Castellana;Prado;5,48;18;2;361;0;Nublado;9;31,38
+NQS Calle 75;Portal Norte;19,41;20;5;2742;0;Normal;1;33,3
+Portal Sur;Calle 142;14,03;15;6;2860;0;Normal;6;35,33
+Quinta Paredes;Prado;3,39;12;2;2587;2;Nublado;7;36,52
+La Castellana;Portal Norte;14,1;16;5;851;1;Lluvia;8;48,35
+Quinta Paredes;Universidad Nacional;11,31;20;1;2621;0;Nublado;3;30,22
+7 de Agosto;Las Aguas;18,38;10;0;2475;0;Normal;7;42,15
+Ricaurte;Perdomo;1,01;21;3;3305;0;Lluvia;5;24,84
+Las Aguas;NQS Calle 75;7,09;7;5;2507;1;Normal;10;41,23
+Quinta Paredes;Calle 127;12,65;15;3;2925;1;Normal;5;38,12
+Toberín;Calle 127;4,39;6;1;738;1;Normal;5;28,45
+Comuneros;Portal Sur;10,99;13;0;1800;0;Nublado;1;22,89
+La Castellana;Portal Sur;18,64;7;3;3580;2;Normal;9;58,69
+General Santander;Ricaurte;16,09;6;6;2826;1;Nublado;10;51,14
+Universidad Nacional;Calle 142;18,95;21;0;714;2;Normal;4;43,95
+Calle 26;NQS Calle 75;11,83;10;4;3368;2;Normal;1;35,18
+Av. Jiménez;Ricaurte;13,82;18;0;983;0;Nublado;9;42,36
+Calle 100;Quinta Paredes;19,97;19;2;3996;1;Nublado;7;54,57
+General Santander;Portal Américas;16,7;15;4;1285;2;Nublado;4;45,14
+7 de Agosto;Ricaurte;19,27;19;3;300;2;Normal;7;52,69
+Calle 26;Calle 127;19,87;14;0;1530;0;Normal;3;35,31
+7 de Agosto;Quinta Paredes;10,71;9;0;454;1;Normal;6;35,95
+Av. Jiménez;NQS Calle 75;5,43;14;0;2636;1;Nublado;2;25,78
+Av. Eldorado;Portal Sur;4,29;8;4;2930;1;Normal;9;36,2
+Toberín;Av. Eldorado;7,61;18;3;3854;0;Lluvia;6;36,15
+Las Aguas;Portal Norte;13,04;17;0;1548;2;Normal;9;49,85
+Av. Eldorado;Calle 26;14,26;9;0;3059;2;Lluvia;8;54,56
+Av. Jiménez;Calle 26;2,71;18;2;3520;1;Normal;7;30,28
+Av. Jiménez;Toberín;11,41;13;0;1932;2;Normal;6;39,45
+Calle 127;Portal Sur;11,63;20;3;2971;2;Normal;5;42,34
+Calle 26;NQS Calle 75;5,6;13;6;2061;1;Nublado;5;28,02
+General Santander;Portal Américas;7,94;11;2;1711;2;Nublado;7;38,68
+Ricaurte;Las Aguas;16,61;19;4;897;1;Normal;6;42,85
+Ricaurte;Calle 127;15,4;7;0;3329;0;Normal;9;47,49
+Universidad Nacional;Portal Norte;7,52;8;2;2143;1;Normal;6;35,59
+La Castellana;Portal Américas;11,38;13;4;2278;2;Nublado;2;36,17
+Portal Norte;Comuneros;12,08;21;0;1346;0;Normal;2;27,57
+Las Aguas;7 de Agosto;2,01;5;0;1891;2;Normal;7;33,44
+Ricaurte;Prado;1,36;17;1;1859;2;Lluvia;5;34,23
+Portal Sur;Las Aguas;11,1;10;1;2350;1;Nublado;6;36,01
+NQS Calle 75;Calle 26;6,79;20;3;3349;0;Normal;6;28,21
+Portal Américas;Universidad Nacional;5,49;21;2;3625;0;Nublado;4;26,7
+Portal Norte;Quinta Paredes;19,03;12;1;1699;1;Nublado;1;38,92
+Calle 26;Las Aguas;17,58;12;3;1284;2;Normal;3;44,03
+Av. Eldorado;Perdomo;11,3;11;5;867;2;Nublado;7;41,43
+Calle 127;Universidad Nacional;14,08;21;1;2061;0;Nublado;5;37,08
+Av. Eldorado;Calle 142;11,59;8;1;1600;0;Nublado;7;39,08
+General Santander;Portal Américas;6,76;13;1;3491;0;Normal;2;20,19
+Las Aguas;Portal Américas;6,07;12;4;1251;0;Nublado;3;20,44
+Portal Sur;Calle 127;10,54;20;5;2960;1;Normal;4;33,35
+Calle 127;Calle 100;4,67;6;3;3431;0;Lluvia;8;33,72
+La Castellana;Portal Américas;2,26;19;6;2827;1;Nublado;8;35,11
+General Santander;Comuneros;15,75;17;5;1581;1;Nublado;10;51,72
+Quinta Paredes;Calle 26;13,19;6;4;747;1;Normal;5;39,8
+NQS Calle 75;Calle 26;11,22;6;4;1886;2;Nublado;5;40,73
+Perdomo;Comuneros;17,8;14;3;981;1;Normal;1;35,75
+Calle 127;Perdomo;16,77;19;0;3259;2;Normal;9;57,05
+Quinta Paredes;Calle 127;8,47;15;3;402;0;Normal;6;29,86
+Perdomo;Calle 142;5,75;10;5;3303;0;Normal;6;27,36
+Ricaurte;Calle 142;10,95;17;5;3540;2;Nublado;6;44,26
+Comuneros;Toberín;15,6;15;4;3868;2;Lluvia;2;45,04
+Calle 100;Toberín;8,97;14;5;3448;1;Normal;2;27,06
+Calle 127;La Castellana;1,07;13;0;2178;1;Lluvia;5;27,78
+Las Aguas;Portal Sur;5,52;20;3;1979;1;Normal;5;26,52
+Quinta Paredes;7 de Agosto;12,78;11;0;1057;0;Normal;3;26,82
+Toberín;Av. Jiménez;16,92;14;2;659;0;Normal;2;30,05
+Universidad Nacional;Las Aguas;13,56;10;3;3369;2;Normal;1;34,47
+Universidad Nacional;Av. Eldorado;8;17;6;577;1;Lluvia;5;34,35
+Calle 127;Prado;14,2;13;2;2458;1;Nublado;6;40,41
+Toberín;Prado;11,86;21;0;2281;2;Nublado;7;46,38
+Universidad Nacional;General Santander;12,57;15;2;2452;2;Lluvia;3;42,31
+Las Aguas;Av. Jiménez;10,43;20;3;3609;0;Lluvia;2;30,24
+La Castellana;Portal Norte;3,25;19;5;3563;0;Nublado;6;29,1
+General Santander;Portal Américas;1,86;16;4;3601;2;Normal;10;38,94
+Universidad Nacional;7 de Agosto;16,01;14;2;2375;2;Normal;1;36,55
+Av. Eldorado;Portal Américas;8,52;5;6;1019;0;Normal;3;25,44
+Portal Sur;Portal Américas;16,15;9;3;936;2;Normal;9;54,24
+Perdomo;General Santander;18,63;6;6;2434;1;Nublado;10;54,71
+Quinta Paredes;Portal Norte;4,96;15;6;3937;1;Normal;2;23,51
+Portal Norte;Av. Eldorado;19,69;10;4;2780;1;Normal;1;40,12
+Universidad Nacional;Av. Eldorado;14,49;13;3;655;1;Lluvia;3;37,12
+Universidad Nacional;La Castellana;10,98;10;0;1832;0;Nublado;1;24,63
+Portal Norte;Portal Sur;18,19;9;1;1693;1;Nublado;9;51,87
+Av. Eldorado;Calle 127;15,62;8;6;2414;2;Lluvia;6;52,07
+Perdomo;Comuneros;14,56;21;0;316;1;Lluvia;6;43,6
+Calle 142;Av. Eldorado;9,87;6;0;2432;2;Nublado;5;41,19
+Universidad Nacional;La Castellana;7,1;11;2;1433;2;Normal;4;32,84
+7 de Agosto;Calle 127;3,99;8;0;2851;2;Nublado;6;36,33
+Quinta Paredes;Av. Eldorado;6,15;14;4;1302;0;Normal;5;26,23
+Quinta Paredes;Perdomo;1,96;5;3;3999;2;Normal;4;26,6
+General Santander;Comuneros;4,4;19;4;1756;1;Normal;6;31,57
+Quinta Paredes;Calle 142;19,5;19;4;839;0;Lluvia;10;53
+Perdomo;Universidad Nacional;14,01;19;3;1249;0;Normal;9;41,48
+Ricaurte;Comuneros;4,48;15;6;3825;1;Normal;1;20,3
+Prado;Ricaurte;10,09;10;2;3445;1;Nublado;2;30,91
+Comuneros;Prado;7,19;7;6;1537;2;Normal;9;42,5
+Las Aguas;NQS Calle 75;11,41;20;3;570;1;Normal;6;36,16
+General Santander;Av. Jiménez;15,96;12;1;3014;2;Normal;6;47,36
+Portal Sur;Prado;12,25;19;2;2573;0;Lluvia;6;38,66
+Comuneros;Calle 142;12,37;17;2;2324;2;Nublado;5;42,53
+Calle 127;Av. Jiménez;18,16;5;6;900;2;Normal;5;45,3
+Las Aguas;Av. Jiménez;9,5;11;5;3893;1;Normal;7;39,72
+Universidad Nacional;General Santander;14,64;16;0;2686;0;Nublado;9;44,99
+Calle 127;Universidad Nacional;2,19;6;0;3180;2;Lluvia;7;36,51
+Universidad Nacional;Portal Norte;5,47;17;5;1603;2;Normal;8;38,97
+La Castellana;Calle 100;10,02;11;4;1875;1;Lluvia;2;30,64
+Calle 127;Portal Américas;1,22;5;1;3254;1;Nublado;2;18,85
+Portal Américas;General Santander;17,34;18;4;1036;1;Nublado;9;52,38
+Comuneros;Ricaurte;5,29;18;4;330;2;Normal;10;40,31
+Calle 26;7 de Agosto;8,81;16;0;455;2;Normal;7;38,86
+Portal Sur;Calle 142;3,7;21;6;3374;1;Normal;1;20,86
+Las Aguas;Calle 142;5,66;7;5;2895;2;Nublado;7;40,27
+Av. Eldorado;Quinta Paredes;15,79;20;3;2399;1;Nublado;3;37,94
+Universidad Nacional;Portal Américas;4,18;14;5;3515;2;Normal;6;33,83
+Calle 100;Av. Jiménez;1,98;14;6;3320;2;Normal;4;26,17
+Calle 26;Calle 142;17,18;13;2;842;2;Normal;7;47,39
+Prado;Las Aguas;4,32;9;5;2129;1;Lluvia;7;36,77
+NQS Calle 75;Portal Sur;4,44;21;6;435;1;Lluvia;2;24,25
+Calle 127;Portal Sur;15,3;18;6;1869;0;Nublado;10;47,7
+La Castellana;Av. Jiménez;14,95;16;0;2930;1;Nublado;5;41,34
+Perdomo;Comuneros;10,05;20;5;3381;2;Normal;6;41,4
+Portal Sur;7 de Agosto;3,76;18;0;1482;1;Normal;7;33,31
+Toberín;Prado;18,44;16;6;2068;2;Lluvia;7;55,17
+7 de Agosto;Prado;5,85;17;3;3466;2;Nublado;10;46,3
+La Castellana;Calle 26;7,41;10;2;2543;0;Nublado;7;29,81
+General Santander;Prado;10,98;19;2;1198;2;Normal;6;39,96
+Las Aguas;Calle 142;2,08;11;4;2913;0;Nublado;1;13,87
+Las Aguas;Calle 127;8,14;10;0;3149;0;Normal;4;27,43
+Calle 142;Perdomo;18,53;13;6;2048;2;Lluvia;7;55
+7 de Agosto;Calle 100;15,83;13;6;555;1;Normal;1;31,4
+7 de Agosto;Calle 100;9,37;20;1;2799;1;Normal;4;30,34
+Quinta Paredes;General Santander;5,15;8;3;3230;1;Normal;5;29,4
+7 de Agosto;Perdomo;1,36;20;1;2974;2;Normal;1;22,4
+7 de Agosto;Calle 127;14,3;17;4;315;2;Nublado;8;49,22
+Comuneros;Calle 142;11,26;5;3;3123;1;Normal;5;37,79
+Ricaurte;Av. Eldorado;13,95;17;0;2889;2;Normal;9;53,16
+Av. Eldorado;Calle 142;16,98;14;5;1131;0;Nublado;4;36,91
+Universidad Nacional;Comuneros;18,03;16;3;647;2;Normal;6;48,03
+La Castellana;Portal Norte;14,68;12;3;1892;0;Nublado;6;36,89
+Quinta Paredes;Perdomo;19,36;5;0;1689;0;Normal;6;40,04
+Prado;La Castellana;16,33;21;3;3077;2;Normal;5;44,78
+Calle 142;Toberín;14,97;20;5;378;1;Lluvia;5;39,21
+Portal Américas;Calle 127;1,27;6;2;3661;0;Normal;6;26,05
+Calle 142;Prado;3,17;12;0;3595;0;Normal;7;27,88
+Comuneros;Av. Eldorado;3,3;9;2;3726;0;Nublado;9;31,89
+Calle 142;Prado;6,2;18;1;3152;1;Nublado;8;37,33
+Av. Jiménez;Toberín;3,53;17;6;946;0;Lluvia;5;24,37
+Calle 100;Calle 142;14,43;14;3;3140;1;Nublado;2;34,18
+7 de Agosto;Calle 26;9,56;12;1;2800;2;Normal;2;33,6
+Las Aguas;Calle 142;12,92;14;2;2015;0;Nublado;2;27,41
+Calle 26;Prado;12,76;21;1;2201;2;Nublado;3;36,82
+Prado;Calle 127;14,02;20;3;1022;0;Nublado;1;25,89
+Ricaurte;Universidad Nacional;4,98;13;2;2826;1;Normal;6;28,49
+Quinta Paredes;Calle 100;4;5;3;2409;0;Normal;2;18,89
+Av. Jiménez;Portal Américas;7,19;11;5;3072;1;Normal;1;23,83
+Prado;NQS Calle 75;15,02;11;3;3951;0;Normal;5;37
+General Santander;Calle 127;5,11;19;1;1886;1;Normal;10;37,22
+Ricaurte;7 de Agosto;4,84;9;0;3135;2;Normal;6;34,82
+Perdomo;Portal Américas;8,95;15;1;3930;1;Nublado;7;39,65
+Las Aguas;Calle 100;11,98;12;0;1986;2;Normal;2;35,2
+Perdomo;7 de Agosto;1,28;18;5;3874;0;Normal;8;28,62
+Av. Jiménez;Calle 127;18,36;5;3;481;0;Lluvia;6;43,79
+Toberín;General Santander;11,09;20;6;3568;2;Lluvia;4;41,51
+Calle 142;Quinta Paredes;15,31;18;1;843;1;Normal;10;51,3
+Portal Norte;Portal Sur;13,71;10;5;2181;2;Nublado;1;38,19
+Perdomo;Calle 127;17,61;17;1;3535;1;Nublado;10;55,73
+Portal Américas;Calle 142;8,31;15;4;433;1;Normal;3;27,81
+Las Aguas;Quinta Paredes;11,93;11;6;3104;0;Nublado;3;31,35
+Toberín;Calle 26;18,96;16;0;754;1;Normal;9;49,9
+Ricaurte;Calle 100;13,32;7;4;3205;0;Normal;7;38,84
+Prado;Portal Sur;15,01;11;6;3351;0;Normal;3;33,17
+General Santander;7 de Agosto;2,03;16;2;2153;1;Nublado;5;27,51
+Quinta Paredes;Portal Américas;18,09;19;4;1807;2;Lluvia;5;50,56
+Perdomo;Calle 142;2,52;10;2;615;0;Normal;1;13,9
+Portal Sur;Calle 127;17,62;21;5;392;1;Normal;6;42,96
+Calle 127;Portal Sur;7,59;19;5;2940;0;Normal;5;27,77
+NQS Calle 75;Calle 26;13,25;18;4;1704;2;Nublado;7;47,5
+Calle 26;Quinta Paredes;9,46;14;4;840;1;Normal;3;27,59
+Ricaurte;Universidad Nacional;15,63;6;1;1746;1;Normal;6;44,1
+Calle 100;Quinta Paredes;6,42;10;6;3200;2;Lluvia;7;39,56
+NQS Calle 75;Prado;1,78;15;4;818;1;Normal;2;16,95
+Toberín;Av. Eldorado;19,58;9;2;2136;2;Lluvia;9;59,8
+Portal Norte;Comuneros;18,69;9;3;1611;0;Normal;10;50,02
+Calle 26;Av. Eldorado;13,3;14;3;3969;1;Lluvia;7;47,43
+Av. Jiménez;Calle 127;16,19;19;2;3122;0;Nublado;5;39,28
+Quinta Paredes;Prado;6,85;17;4;3744;0;Normal;5;28,8
+Las Aguas;La Castellana;12,09;12;6;3442;1;Normal;1;30,63
+Perdomo;Calle 142;19,54;17;1;2308;1;Nublado;9;56,47
+Ricaurte;Comuneros;3,81;18;2;1881;1;Normal;7;31,25
+Perdomo;Quinta Paredes;2,66;19;5;2002;1;Normal;10;37,61
+General Santander;Portal Américas;3,65;7;1;1151;1;Normal;9;36,4
+Calle 142;Av. Jiménez;15,37;7;0;1977;2;Lluvia;8;52,62
+Perdomo;Av. Jiménez;15,35;9;1;1061;1;Normal;8;44,31
+Universidad Nacional;Av. Jiménez;6,77;19;1;409;0;Normal;7;31,85
+Portal Américas;Portal Sur;3,36;14;3;1034;1;Lluvia;6;28,9
+Prado;7 de Agosto;10,37;7;4;3353;1;Nublado;9;44,76
+7 de Agosto;Portal Sur;19,51;8;2;2399;2;Nublado;7;53,99
+Toberín;Calle 127;7,07;9;2;968;0;Normal;8;33,08
+Ricaurte;Toberín;6,51;21;5;614;2;Normal;6;32,93
+Prado;Las Aguas;15,3;15;6;1595;2;Nublado;3;41,77
+Ricaurte;Prado;11,15;16;6;888;0;Normal;7;34,95
+Portal Sur;General Santander;7,47;10;0;1192;0;Nublado;7;29,24
+Quinta Paredes;Las Aguas;14,1;21;6;2479;2;Nublado;7;48,39
+General Santander;Perdomo;18,4;8;6;837;0;Normal;7;44,52
+Calle 127;Perdomo;17,9;21;6;1701;0;Nublado;1;33,68
+Prado;NQS Calle 75;3,45;9;5;1228;1;Normal;6;31,12
+General Santander;Prado;2,48;20;6;2066;0;Normal;1;15,45
+Calle 26;Av. Jiménez;2,13;8;2;477;0;Normal;5;22,37
+Prado;Las Aguas;4,9;11;1;3046;1;Normal;2;24,96
+7 de Agosto;Av. Jiménez;7,61;10;6;2350;2;Nublado;5;36,49
+Prado;Av. Jiménez;15,5;21;1;3231;0;Lluvia;2;36,52
+Quinta Paredes;Portal Norte;19,5;8;1;2365;2;Normal;10;59,75
+Perdomo;Prado;4,44;16;3;2037;0;Nublado;8;29,85
+Av. Eldorado;Prado;9,85;21;1;2330;1;Nublado;5;35,66
+Calle 142;Av. Eldorado;10,38;17;2;2171;2;Nublado;10;51,65
+Perdomo;NQS Calle 75;11,52;14;6;2052;0;Lluvia;7;39,07
+Ricaurte;Calle 100;1,24;20;5;730;1;Normal;6;24,94
+Prado;Calle 127;8,5;8;5;3955;0;Normal;6;32,63
+Las Aguas;Comuneros;3,33;18;5;2344;1;Nublado;9;36,46
+Portal Américas;Comuneros;7,77;17;3;2394;1;Normal;8;36,96
+7 de Agosto;Portal Sur;10,45;9;0;707;2;Normal;5;39,1
+Portal Norte;Calle 100;8,27;15;1;1540;2;Nublado;7;38
+Calle 26;Portal Sur;16,06;11;2;3011;1;Normal;3;38,25
+Quinta Paredes;Portal Américas;1,34;6;3;3904;0;Normal;7;28,11
+Perdomo;Portal Américas;1,68;10;4;3000;1;Lluvia;2;22,8
+Calle 127;Universidad Nacional;14,6;20;6;748;2;Nublado;6;44,83
+Quinta Paredes;Av. Jiménez;9,93;10;4;528;1;Normal;5;34,24
+Las Aguas;Ricaurte;15,56;14;2;551;0;Nublado;2;32,1
+Ricaurte;Av. Jiménez;1,51;15;3;698;1;Normal;3;19,07
+Toberín;NQS Calle 75;5,7;14;4;647;2;Normal;3;26,65
+Calle 100;Portal Norte;11,23;6;3;2994;1;Nublado;8;43,08
+Portal Sur;Av. Jiménez;1,42;15;3;2636;1;Normal;1;18,76
+Prado;La Castellana;7,38;21;6;3433;2;Normal;5;35,05
+General Santander;La Castellana;10,44;7;6;3782;2;Normal;7;43,25
+Av. Jiménez;Comuneros;16,29;7;5;3757;2;Normal;7;50,86
+Av. Jiménez;Calle 26;10,03;11;2;3558;0;Nublado;3;28,62
+Universidad Nacional;General Santander;13,61;15;1;1997;1;Normal;5;37,63
+Quinta Paredes;Calle 100;17,74;21;6;1064;2;Normal;6;49,34
+Perdomo;7 de Agosto;18,81;18;4;3276;2;Normal;6;52,02
+Calle 127;NQS Calle 75;3,86;14;6;2083;1;Normal;7;31,72
+Portal Américas;La Castellana;17,07;13;6;1475;2;Normal;6;47,46
+Comuneros;NQS Calle 75;3,16;11;0;1305;1;Normal;5;27,19
+General Santander;Toberín;4,84;13;1;419;1;Nublado;3;24,65
+Calle 100;Toberín;19,31;20;6;381;0;Lluvia;1;34,48
+Universidad Nacional;Calle 142;18,11;18;2;3051;2;Lluvia;8;59,74
+Calle 127;NQS Calle 75;3,13;21;0;2437;2;Lluvia;7;38,26
+7 de Agosto;Portal Sur;17,81;12;4;800;1;Normal;5;42,6
+NQS Calle 75;General Santander;5,14;8;1;1176;1;Normal;7;34,24
+Toberín;Portal Sur;11,14;8;2;2535;1;Normal;6;40,98
+Calle 127;Ricaurte;10,03;16;6;1562;0;Nublado;9;37,28
+Toberín;NQS Calle 75;5,81;17;2;2917;2;Normal;10;42,6
+NQS Calle 75;Perdomo;8,38;17;2;1532;0;Lluvia;6;33,3
+Calle 100;Perdomo;13;18;6;438;1;Lluvia;8;45,8
+General Santander;Av. Eldorado;14,63;8;6;956;2;Normal;5;43,53
+Las Aguas;Quinta Paredes;15,02;19;5;412;0;Nublado;6;39,34
+Portal Américas;Calle 127;1,06;11;5;1551;1;Nublado;1;15,84
+Calle 26;Calle 127;17,09;18;6;1608;1;Normal;10;50,53
+Calle 100;Av. Jiménez;16,71;14;1;645;1;Normal;4;40,06
+Av. Jiménez;NQS Calle 75;1,39;5;4;2950;2;Nublado;1;24,65
+La Castellana;7 de Agosto;14,32;10;0;1942;2;Normal;3;37,78
+Ricaurte;Calle 100;19;8;0;3243;2;Normal;8;57,46
+Portal Sur;Prado;5,27;11;1;3830;1;Normal;4;27,58
+General Santander;La Castellana;12,4;14;5;3073;0;Normal;4;32,79
+Portal Norte;Universidad Nacional;19,55;12;4;2147;0;Normal;6;43,06
+Calle 142;Portal Norte;9,91;15;5;1928;2;Normal;4;36,64
+Las Aguas;7 de Agosto;2,39;6;0;1663;0;Normal;7;28,02
+Las Aguas;Toberín;1,1;21;4;1860;1;Lluvia;6;27,5
+Quinta Paredes;Toberín;12,03;13;1;2363;1;Lluvia;4;36,13
+Av. Eldorado;Calle 26;9,23;13;0;1583;0;Lluvia;4;31,22
+7 de Agosto;Ricaurte;18,6;14;2;2810;1;Nublado;4;45,1
+Av. Eldorado;Portal Sur;15,51;9;4;3794;2;Nublado;8;51,81
+Calle 127;Toberín;5,37;6;3;1365;0;Nublado;8;30,38
+Portal Sur;Toberín;9,39;20;3;2319;0;Lluvia;7;34,22
+Ricaurte;Calle 142;4,87;14;1;3719;0;Nublado;7;28,69
+Av. Jiménez;La Castellana;12,09;5;4;3441;2;Normal;1;33,46
+Portal Sur;Prado;17,86;5;2;3090;2;Normal;3;44,58
+Prado;Av. Eldorado;3,92;7;3;3702;2;Nublado;8;40,71
+7 de Agosto;Las Aguas;13,5;15;0;2987;2;Lluvia;3;43,9
+Av. Jiménez;Calle 127;5,02;6;6;2936;1;Normal;5;31,69
+Quinta Paredes;Las Aguas;8,25;17;2;1029;0;Lluvia;8;35,3
+La Castellana;Calle 100;8,38;17;2;2950;2;Normal;7;41,96
+General Santander;Universidad Nacional;18,17;9;2;3025;0;Lluvia;9;50,52
+Perdomo;Comuneros;10,05;18;0;3398;1;Lluvia;9;45,43
+Portal Américas;General Santander;2,77;21;2;2198;2;Normal;6;32,07
+Portal Sur;Calle 26;12,96;21;0;1490;1;Normal;7;39,96
+Calle 127;Portal Américas;14;14;6;1318;2;Normal;5;39,89
+Calle 142;Toberín;10,75;21;3;1991;0;Normal;6;32,5
+7 de Agosto;Ricaurte;5,84;7;6;2362;0;Normal;10;35,54
+Calle 100;Comuneros;1,86;18;5;1519;1;Nublado;8;33,03
+Perdomo;Las Aguas;16,35;15;6;3617;0;Normal;1;32,5
+Las Aguas;7 de Agosto;17,56;8;3;2488;0;Normal;5;38,82
+Portal Américas;Portal Sur;9,74;17;6;2994;2;Nublado;8;45,51
+Las Aguas;Ricaurte;14,12;17;6;1539;0;Normal;5;34,78
+Portal Norte;La Castellana;17,32;11;3;2956;0;Nublado;4;39,55
+Quinta Paredes;La Castellana;2,64;19;1;2241;1;Normal;6;30,71
+Perdomo;Portal Sur;9,96;19;4;1293;0;Normal;8;34,34
+Portal Norte;Prado;12,98;18;3;3775;1;Nublado;9;49,3
+Universidad Nacional;Toberín;10,26;20;4;2720;2;Nublado;6;42,89
+Portal Sur;NQS Calle 75;14,57;21;0;2028;2;Normal;1;35,22
+Portal Américas;General Santander;17,89;8;3;2850;2;Normal;10;57,69
+Calle 100;Universidad Nacional;14,8;20;2;2094;0;Nublado;5;37,9
+Av. Eldorado;Las Aguas;17,22;19;1;3917;1;Nublado;8;53,51
+Portal Américas;Ricaurte;16,12;10;4;1148;1;Nublado;1;34,86
+Calle 127;Calle 100;4,79;20;0;3550;1;Lluvia;4;29,48
+La Castellana;Quinta Paredes;1,89;5;2;3908;1;Normal;2;19,53
+Calle 26;Toberín;16,33;15;3;766;2;Normal;5;42,81
+7 de Agosto;Av. Eldorado;15,91;6;6;3895;2;Normal;6;51,16
+Calle 26;Las Aguas;13,72;6;3;3572;1;Lluvia;5;46,15
+Las Aguas;Portal Américas;15,86;8;6;2603;0;Nublado;6;42,13
+La Castellana;Ricaurte;3,98;14;5;2108;2;Normal;7;32,63
+Portal Américas;Ricaurte;7,36;9;0;3775;0;Normal;8;36,29
+Portal Norte;NQS Calle 75;16,86;20;2;1474;2;Normal;3;41,21
+General Santander;Ricaurte;12,96;12;1;3385;2;Normal;2;35,68
+General Santander;Portal Américas;18,44;19;6;2414;2;Normal;5;49,49
+Portal Norte;Calle 26;18,93;7;2;1589;1;Lluvia;6;50,03
+Comuneros;Toberín;13,54;9;4;536;2;Lluvia;10;55,52
+Universidad Nacional;General Santander;8,64;14;5;3342;1;Lluvia;1;30,73
+Calle 26;Las Aguas;18,49;17;3;2937;0;Lluvia;9;53,16
+Portal Américas;Perdomo;14,25;17;6;1108;1;Normal;9;45,95
+Calle 127;Calle 26;19,85;14;1;680;2;Nublado;5;48,26
+Portal Américas;Calle 100;1,45;13;1;3708;1;Nublado;5;24,7
+Toberín;Ricaurte;5,94;21;2;807;0;Nublado;1;18
+Av. Jiménez;Portal Norte;9,61;12;6;3354;2;Nublado;6;41,71
+Las Aguas;NQS Calle 75;7,66;14;5;3514;2;Nublado;2;32,99
+Calle 26;NQS Calle 75;3;21;4;1088;1;Normal;2;20,6
+General Santander;Calle 142;2,75;18;1;2250;0;Normal;7;27,64
+Comuneros;Av. Jiménez;11,62;17;6;1380;2;Normal;8;48,1
+Portal Sur;General Santander;16,65;9;4;820;1;Nublado;6;46,9
+Calle 26;Portal Américas;3,24;11;3;2238;0;Nublado;5;22,57
+Prado;Las Aguas;17,19;8;0;1813;2;Normal;9;53,19
+Ricaurte;Universidad Nacional;19,83;14;2;2290;0;Nublado;2;38,25
+General Santander;Toberín;18,8;14;2;1183;0;Lluvia;4;38,41
+Quinta Paredes;Ricaurte;2,28;6;3;2270;2;Normal;8;37,71
+Comuneros;Portal Sur;16,85;9;6;867;2;Nublado;8;53,37
+Calle 127;Av. Eldorado;2,7;18;3;1253;1;Normal;5;28,48
+Perdomo;7 de Agosto;13,27;10;5;401;2;Nublado;7;45,32
+Quinta Paredes;Prado;13,23;7;1;2834;2;Nublado;5;46,91
+Calle 26;La Castellana;15,26;21;0;792;2;Lluvia;2;42,46
+7 de Agosto;La Castellana;5,66;19;0;3605;2;Nublado;8;42,47
+Portal Sur;Portal Norte;7,46;10;3;398;2;Normal;3;28,37
+Prado;Quinta Paredes;4,19;9;1;1346;0;Normal;8;30,25
+Toberín;Las Aguas;19,26;10;0;3221;0;Normal;1;33,81
+General Santander;Av. Eldorado;5,9;8;0;1129;0;Nublado;9;32,97
+Calle 26;Portal Américas;8,32;8;2;548;1;Normal;8;35,89
+Portal Norte;General Santander;13,04;5;2;2569;2;Nublado;2;38,59
+Portal Américas;Calle 127;6,79;18;3;643;2;Nublado;6;37,04
+Calle 100;NQS Calle 75;11,21;18;4;2150;0;Normal;8;40,13
+Las Aguas;Universidad Nacional;13,41;10;0;546;1;Normal;3;34,33
+Comuneros;Ricaurte;17,01;11;4;3743;2;Normal;2;43,04
+Av. Jiménez;Calle 142;6,71;17;5;803;0;Nublado;7;32,8
+La Castellana;Las Aguas;10,59;15;5;1703;2;Normal;7;42,33
+7 de Agosto;NQS Calle 75;13,58;15;2;1162;1;Lluvia;3;34,75
+Calle 127;Portal Norte;12,57;5;0;3055;0;Normal;6;36,01
+Comuneros;Quinta Paredes;2,54;7;4;426;2;Normal;5;29,19
+Comuneros;Las Aguas;7,8;10;6;3445;2;Lluvia;1;32,39
+La Castellana;Perdomo;1,18;5;6;1451;2;Lluvia;3;25,43
+Las Aguas;Universidad Nacional;16,36;12;1;2322;1;Normal;4;41,17
+Las Aguas;La Castellana;1,14;17;0;3863;1;Nublado;8;31,81
+La Castellana;Av. Jiménez;13,77;10;0;2709;0;Nublado;2;29,53
+Av. Jiménez;NQS Calle 75;17,74;13;1;3772;2;Normal;6;50,46
+Las Aguas;7 de Agosto;13,93;19;0;2049;2;Nublado;10;51,93
+Av. Eldorado;General Santander;17,04;18;2;798;2;Nublado;8;52,31
+Toberín;NQS Calle 75;1,89;18;4;2138;1;Normal;6;27,49
+Av. Jiménez;Portal Norte;19,82;12;5;2035;0;Lluvia;2;37,55
+Universidad Nacional;Calle 142;12,89;8;0;2265;1;Lluvia;9;50,2
+Av. Eldorado;7 de Agosto;5,7;20;1;1695;0;Lluvia;5;28,64
+Calle 142;Las Aguas;12,77;8;5;2128;2;Normal;5;44,63
+Comuneros;Av. Eldorado;17,91;7;6;822;0;Lluvia;8;46,1
+Las Aguas;General Santander;2,25;6;4;513;1;Lluvia;8;32
+General Santander;NQS Calle 75;17,43;5;3;1872;1;Nublado;5;43,58
+Av. Eldorado;Portal Norte;9,63;15;4;1088;0;Normal;5;29,33
+Av. Jiménez;La Castellana;18,18;9;5;2384;1;Normal;8;51,39
+Perdomo;Calle 100;5,62;6;0;822;1;Nublado;9;39,29
+Ricaurte;Universidad Nacional;12,09;9;1;2223;1;Nublado;7;42,13
+Portal Norte;Calle 26;12,14;9;0;1272;2;Lluvia;9;52,76
+General Santander;Ricaurte;4,71;11;5;1124;0;Normal;6;24,46
+Perdomo;Las Aguas;14,16;15;4;1527;1;Normal;1;31,07
+Toberín;Portal Sur;5,17;5;5;1213;2;Normal;5;30,31
+Portal Sur;Av. Eldorado;16,34;17;1;1939;0;Lluvia;5;41,36
+Calle 142;Ricaurte;1,57;8;1;1490;1;Normal;9;34
+Ricaurte;Toberín;19,53;11;1;1463;0;Normal;3;37,65
+Av. Eldorado;Quinta Paredes;5,67;11;0;1021;1;Lluvia;1;25,4
+Calle 127;Comuneros;13,44;8;2;1161;1;Normal;7;43,56
+Calle 100;Calle 26;19,56;18;5;567;0;Normal;6;44,35
+La Castellana;Quinta Paredes;8,19;16;2;2755;1;Lluvia;6;40,6
+Las Aguas;Av. Jiménez;4,59;14;6;908;1;Normal;6;29,42
+Calle 127;Calle 26;19,4;20;1;3279;0;Nublado;7;46,6
+Calle 142;Calle 100;10,66;21;2;2342;2;Normal;3;36,16
+Calle 26;Portal Sur;14,6;20;3;1399;2;Normal;7;46,19
+Toberín;La Castellana;5,17;11;3;3835;0;Normal;3;21,94
+Comuneros;Av. Jiménez;3,99;16;2;2555;0;Normal;5;24,4
+Calle 26;Ricaurte;5,37;6;3;2398;2;Normal;8;39,64
+General Santander;Ricaurte;16,29;15;2;1866;0;Normal;2;30,75
+Calle 142;Ricaurte;18,13;14;6;2355;2;Nublado;1;42,66
+NQS Calle 75;Prado;3,25;16;0;2536;0;Normal;10;32,17
+Universidad Nacional;7 de Agosto;4,62;9;6;3381;2;Nublado;7;37,06
+Universidad Nacional;Portal Américas;16,62;17;3;3666;2;Nublado;5;49,56
+Calle 26;Calle 127;17,44;12;1;3262;2;Normal;2;42,24
+Quinta Paredes;Perdomo;14,73;19;2;3543;0;Normal;6;39,81
+General Santander;La Castellana;9,33;5;2;869;2;Lluvia;3;37,33
+Portal Norte;Portal Sur;16,4;16;2;1223;1;Normal;8;48,53
+Quinta Paredes;Universidad Nacional;7,2;5;4;3516;0;Lluvia;2;27,52
+Av. Eldorado;Av. Jiménez;12,97;17;3;1136;1;Normal;8;42,22
+Prado;Av. Eldorado;11,82;19;5;3964;1;Normal;5;40,1
+Calle 100;Toberín;16,7;20;0;1064;0;Normal;4;34,03
+NQS Calle 75;Universidad Nacional;13,53;7;3;535;1;Nublado;6;40,51
+General Santander;Comuneros;3,98;8;1;2497;1;Normal;5;28,71
+La Castellana;Calle 127;17,54;14;3;3650;2;Nublado;2;44,03
+Universidad Nacional;Av. Jiménez;4,86;19;2;1126;0;Lluvia;8;31,38
+Comuneros;Las Aguas;16,34;21;2;2631;1;Normal;5;39,64
+Calle 142;Universidad Nacional;13,28;19;2;3168;2;Nublado;8;50,96
+Calle 100;General Santander;5,73;18;3;1875;2;Normal;9;39,83
+Toberín;NQS Calle 75;17,83;10;2;3914;2;Nublado;6;52,63
+La Castellana;Portal Sur;8,81;8;2;613;0;Nublado;7;33,18
+Calle 100;7 de Agosto;4,94;6;3;409;0;Nublado;10;35,02
+Comuneros;Av. Eldorado;15,17;11;3;454;0;Normal;6;37,69
+Av. Eldorado;Perdomo;10,21;7;0;2546;2;Normal;8;44,02
+7 de Agosto;Calle 100;4,24;5;4;711;0;Normal;5;22,93
+Calle 100;Calle 142;13,76;5;5;1419;0;Normal;2;27,27
+Toberín;Quinta Paredes;5,11;6;6;2900;2;Nublado;10;44,93
+Prado;Comuneros;14,12;19;0;2750;0;Normal;8;43,2
+NQS Calle 75;Ricaurte;18,27;11;0;365;1;Normal;1;34,36
+La Castellana;Calle 142;5,19;8;6;3721;2;Normal;6;35,45
+Calle 26;Prado;16,5;15;4;2867;0;Nublado;5;38,44
+General Santander;Prado;5,42;8;2;1624;0;Normal;10;33,85
+Comuneros;La Castellana;9,72;7;5;3638;1;Nublado;7;39,29
+La Castellana;General Santander;6,73;20;0;3218;2;Nublado;7;39,6
+7 de Agosto;Prado;12,4;17;5;3459;2;Normal;6;45,88
+Av. Eldorado;Portal Sur;2,28;5;4;2696;1;Normal;6;28,04
+Calle 26;Av. Jiménez;14,39;5;1;386;2;Nublado;1;34,81
+General Santander;NQS Calle 75;12,78;6;1;1834;1;Normal;6;39,93
+Portal Américas;Toberín;5,52;19;5;3893;1;Normal;7;36,07
+Toberín;Calle 26;16,04;18;5;3628;1;Nublado;6;48,06
+Av. Eldorado;Portal Américas;5,6;6;5;1317;2;Nublado;6;37,17
+Comuneros;Calle 26;7,11;19;5;324;0;Lluvia;5;31,76
+Toberín;Calle 127;18,83;9;0;1011;2;Nublado;6;50,64
+Calle 142;General Santander;14,77;14;1;3255;0;Normal;2;31,52
+Universidad Nacional;Portal Américas;11,95;11;2;3832;1;Normal;3;33,63
+Calle 100;Portal Sur;9,39;21;4;3310;1;Nublado;7;40,27
+Portal Sur;Portal Norte;15,48;18;6;640;1;Nublado;6;43,75
+Calle 100;7 de Agosto;8,23;14;3;1460;1;Nublado;4;28,77
+Calle 127;Portal Sur;4,72;11;0;352;2;Nublado;3;27,79
+General Santander;Comuneros;19,44;16;3;2305;1;Nublado;9;52,86
+Toberín;Prado;8,31;10;1;3425;1;Lluvia;7;40,96
+Ricaurte;Calle 26;14,47;16;5;536;2;Normal;8;49,63
+NQS Calle 75;Portal Sur;1,66;16;5;3194;2;Normal;10;40,15
+7 de Agosto;Las Aguas;9,65;9;2;1313;2;Nublado;10;49,56
+Portal Norte;Prado;15,65;17;3;3192;2;Lluvia;5;50,23
+La Castellana;General Santander;4,15;18;2;3133;1;Nublado;9;38,32
+Comuneros;Av. Jiménez;6,85;18;6;3889;2;Lluvia;5;41,16
+Ricaurte;Calle 127;6,11;11;5;1930;2;Normal;2;29,3
+Portal Norte;Prado;2,33;18;4;2007;2;Normal;8;34,63
+Ricaurte;Calle 100;14,38;11;3;1045;2;Lluvia;4;43,48
+La Castellana;Calle 100;4,82;10;6;3409;0;Normal;7;27,92
+Portal Américas;Las Aguas;3,07;10;0;1500;0;Normal;3;16,14
+Portal Norte;Av. Jiménez;5,46;20;5;3415;0;Normal;3;23,23
+Portal Norte;Av. Jiménez;15,99;6;0;1164;2;Nublado;8;52,37
+7 de Agosto;Portal Sur;9,99;15;4;2059;1;Normal;3;32,3
+NQS Calle 75;Ricaurte;13,64;17;4;534;1;Lluvia;5;39,64
+Comuneros;Calle 127;1,49;8;6;2473;1;Lluvia;6;30,45
+Las Aguas;Portal Sur;10,78;11;0;2913;1;Normal;3;33,42
+Av. Eldorado;Perdomo;5,44;20;3;3327;2;Nublado;3;30,84
+Portal Sur;Prado;14,95;14;4;1099;2;Normal;5;44,11
+Calle 26;Toberín;3,43;7;2;3709;2;Lluvia;8;40,31
+Perdomo;Prado;10,16;12;1;1166;0;Nublado;6;32,66
+Prado;General Santander;19,87;5;1;1637;1;Nublado;2;41,49
+Portal Sur;Prado;13,64;20;0;3558;2;Normal;2;39,78
+Las Aguas;Calle 142;13,24;17;5;3343;2;Nublado;10;54,58
+Quinta Paredes;General Santander;16,36;12;2;773;1;Normal;1;32,52
+Av. Jiménez;La Castellana;15,15;8;4;1806;0;Lluvia;8;45,84
+Portal Norte;Universidad Nacional;2,18;11;6;1889;1;Normal;3;22,37
+Calle 127;Calle 26;13,61;12;0;1919;0;Nublado;4;32,31
+Universidad Nacional;NQS Calle 75;10,5;19;1;2763;1;Normal;10;46,77
+Toberín;Las Aguas;7,08;21;5;805;1;Lluvia;6;34,31
+Portal Américas;La Castellana;10,41;17;0;3618;1;Normal;10;44,83
+NQS Calle 75;Toberín;18,54;10;6;2296;2;Normal;7;51,77
+Calle 100;Portal Norte;11,41;15;3;3076;1;Lluvia;7;42,15
+Calle 142;Calle 26;14,81;14;5;1099;2;Lluvia;4;42,14
+Av. Eldorado;Av. Jiménez;17,45;6;6;3206;1;Normal;6;47,25
+Perdomo;Portal Sur;6,53;9;1;1193;2;Normal;10;41,54
+Av. Jiménez;Prado;13,89;9;3;2049;2;Lluvia;5;45,57
+Portal Sur;Calle 100;18,96;8;4;2962;1;Nublado;6;49,98
+Comuneros;NQS Calle 75;1,65;12;3;2301;1;Nublado;2;20,83
+Comuneros;Calle 142;15,78;17;2;2890;2;Normal;5;45,54
+Calle 142;Prado;10,3;21;1;394;2;Nublado;5;37,59
+Prado;Av. Jiménez;4,44;20;5;3178;1;Normal;2;21,55
+Calle 142;Quinta Paredes;4,51;5;3;2577;2;Nublado;5;32,79
+Calle 26;Av. Jiménez;11,24;8;6;3384;0;Lluvia;5;35,97
+Las Aguas;Calle 100;1,1;19;6;1587;0;Normal;9;26,71
+Calle 100;Calle 142;11,69;6;0;810;2;Normal;9;46,1
+Portal Norte;NQS Calle 75;6,71;21;6;1501;2;Nublado;2;29,68
+Av. Eldorado;Calle 26;18,3;16;4;2504;2;Normal;5;50,28
+Toberín;NQS Calle 75;1,7;9;2;3806;0;Lluvia;9;33,63
+Av. Jiménez;Ricaurte;6,27;18;0;2552;1;Normal;10;41,95
+Comuneros;Perdomo;2,58;13;5;2042;2;Normal;2;22,35
+7 de Agosto;La Castellana;14,57;21;4;971;1;Lluvia;3;39,63
+General Santander;Comuneros;1,49;12;0;1406;0;Nublado;6;22,28
+Calle 142;Av. Eldorado;13,16;16;2;3486;1;Normal;6;41,33
+Prado;Comuneros;19,61;12;3;730;0;Normal;6;42,86
+Av. Jiménez;Portal Sur;2,82;16;5;2643;1;Nublado;9;34,14
+Toberín;Calle 100;7,04;17;1;1713;2;Nublado;9;44,03
+Comuneros;Portal Sur;12,25;13;0;3112;2;Nublado;6;42,39
+Comuneros;Av. Jiménez;14,97;6;5;2918;1;Nublado;6;45,56
+General Santander;Perdomo;4,48;16;6;2219;2;Normal;8;38,68
+NQS Calle 75;Universidad Nacional;13,08;7;2;1965;1;Lluvia;10;49
+NQS Calle 75;Calle 142;4,14;6;0;3345;1;Nublado;8;37,38
+Portal Norte;General Santander;13,86;9;3;2339;2;Nublado;10;55,44
+Prado;Comuneros;1,26;11;6;3355;0;Nublado;6;23,58
+Ricaurte;NQS Calle 75;19,89;21;5;2795;0;Nublado;2;38,3
+Calle 26;NQS Calle 75;4,32;16;6;846;2;Normal;5;31,86
+Comuneros;Calle 100;8,09;8;2;3081;0;Lluvia;5;32,53
+Portal Sur;Universidad Nacional;6,03;5;5;2885;2;Normal;3;32,16
+Portal Américas;Calle 26;16,69;6;3;3955;2;Lluvia;5;51,41
+Las Aguas;Perdomo;7,24;16;0;321;1;Lluvia;6;35,4
+Portal Norte;Prado;9,19;11;0;2467;2;Lluvia;4;36,92
+Portal Sur;Portal Norte;3,96;13;1;2227;1;Normal;3;23,22
+Calle 100;Quinta Paredes;16,42;8;3;2988;1;Normal;7;48,26
+Portal Norte;Ricaurte;17,79;11;0;1076;1;Normal;4;39,84
+Av. Eldorado;Toberín;4,05;11;3;3024;1;Normal;4;26,18
+Calle 127;Av. Eldorado;15,27;17;4;3273;2;Lluvia;8;53,41
+Prado;Portal Norte;3,4;16;4;355;2;Normal;10;40,53
+General Santander;Las Aguas;15,01;18;3;1485;1;Normal;8;45,09
+Calle 127;Calle 26;4,55;13;6;771;1;Lluvia;2;24,94
+General Santander;La Castellana;10;8;5;3291;2;Nublado;6;45,41
+Av. Jiménez;Calle 127;5,36;9;3;457;1;Lluvia;6;33,45
+Las Aguas;La Castellana;2,73;6;3;1968;2;Normal;10;41,7
+NQS Calle 75;Av. Eldorado;9,1;6;4;2049;2;Normal;5;37,75
+7 de Agosto;Ricaurte;14,52;12;2;3966;0;Normal;1;27,91
+Av. Eldorado;La Castellana;6,42;13;4;712;1;Normal;4;26,23
+Universidad Nacional;Prado;2,84;5;5;2560;0;Normal;6;24,84
+Av. Jiménez;Calle 26;12,49;12;5;1430;0;Nublado;1;27,8
+Calle 127;Las Aguas;3,29;11;1;3186;1;Lluvia;1;24,91
+Las Aguas;Av. Eldorado;6,73;20;6;1127;2;Nublado;1;25,89
+General Santander;Quinta Paredes;14,52;16;2;2136;2;Nublado;8;49,35
+General Santander;Calle 26;18,7;21;6;389;0;Nublado;6;42,9
+Universidad Nacional;Toberín;19,16;6;6;3141;0;Nublado;8;49,23
+Quinta Paredes;Calle 26;19,46;10;3;3374;2;Normal;7;52,65
+Las Aguas;7 de Agosto;4,93;5;1;2642;0;Nublado;1;20,09
+Calle 26;Perdomo;10,57;21;2;1542;0;Normal;3;26,75
+Calle 100;NQS Calle 75;1,87;12;2;460;2;Normal;3;25,34
+7 de Agosto;Toberín;13,21;12;6;1160;2;Normal;6;41,75
+Las Aguas;Ricaurte;7,17;13;5;847;1;Lluvia;3;28,35
+Toberín;Portal Norte;16,65;12;5;1445;0;Normal;1;30,2
+Av. Jiménez;Prado;14,73;17;5;1354;2;Nublado;9;51,19
+Perdomo;NQS Calle 75;7,16;11;4;2879;1;Normal;2;26,95
+General Santander;Ricaurte;3,82;20;0;2331;0;Normal;7;27,68
+La Castellana;Av. Jiménez;10,32;10;5;1455;0;Normal;2;25,75
+Las Aguas;La Castellana;2,32;7;3;1304;1;Lluvia;8;32,76
+Calle 26;Calle 127;14,81;5;4;708;1;Normal;1;32,63
+Portal Américas;Toberín;3,51;7;2;884;2;Nublado;5;34,1
+Prado;Quinta Paredes;14,99;15;6;3197;0;Normal;4;35,74
+Perdomo;Calle 100;6,84;20;1;1298;0;Nublado;3;23,56
+Prado;Portal Norte;16,67;8;4;1515;0;Nublado;8;43,6
+NQS Calle 75;Portal Norte;5,31;17;1;1747;2;Normal;10;42,1
+Prado;Portal Sur;4,22;8;1;716;1;Normal;9;34,08
+Ricaurte;Calle 142;18,02;9;1;2055;2;Normal;6;51,35
+Calle 127;Universidad Nacional;12,87;14;2;3885;0;Normal;4;33,48
+7 de Agosto;Calle 142;15,99;9;6;2986;0;Normal;8;44,26
+Portal Sur;Calle 142;3,15;18;5;1440;0;Normal;6;23,75
+Comuneros;Ricaurte;7,07;18;3;3140;1;Nublado;10;42,08
+Portal Américas;NQS Calle 75;8,28;20;4;2486;1;Nublado;7;35,41
+Calle 142;Av. Jiménez;14,58;21;4;3480;2;Lluvia;2;42,88
+NQS Calle 75;Ricaurte;1,05;5;2;2587;1;Lluvia;1;18,3
+Ricaurte;Portal Américas;17,13;9;2;2185;0;Lluvia;9;51,71
+General Santander;NQS Calle 75;5;12;0;3359;0;Normal;6;27,57
+Comuneros;Portal Norte;14,23;18;2;521;2;Normal;9;48,39
+Las Aguas;Calle 100;1,57;16;1;623;0;Normal;9;28,95
+General Santander;Calle 127;15,54;20;5;873;2;Nublado;3;40,58
+Av. Eldorado;Perdomo;15,85;5;2;755;0;Normal;6;35,19
+Calle 100;Calle 26;4,05;17;6;2035;2;Lluvia;8;41,17
+7 de Agosto;Av. Jiménez;10,54;12;3;942;1;Lluvia;5;35,92
+Calle 127;La Castellana;8,61;6;1;1906;0;Lluvia;9;40,21
+Calle 142;Perdomo;10,07;17;6;1858;0;Normal;7;35,62
+La Castellana;7 de Agosto;3,06;7;2;2770;1;Normal;7;30,38
+Prado;Calle 142;5,03;5;6;1566;0;Nublado;6;28,01
+NQS Calle 75;7 de Agosto;2,62;6;4;3536;1;Normal;7;30,23
+Universidad Nacional;Portal Norte;19,63;14;3;2348;0;Normal;4;40,23
+Calle 127;Prado;7,3;21;0;2356;0;Normal;7;29,79
+Av. Jiménez;Toberín;6,51;9;5;2196;0;Lluvia;5;32,63
+NQS Calle 75;La Castellana;16,34;9;6;3243;0;Lluvia;9;49,86
+Las Aguas;Calle 26;18,67;15;3;3516;0;Normal;3;37,99
+General Santander;Toberín;17,92;17;1;1155;2;Nublado;6;51,04
+Portal Sur;Prado;16,29;9;6;3865;1;Nublado;5;45,45
+Perdomo;Av. Eldorado;4,22;14;1;579;1;Nublado;3;21,79
+Calle 100;Perdomo;5,9;20;2;3425;1;Nublado;2;27,8
+Av. Jiménez;Portal Sur;1,75;14;3;1975;2;Lluvia;2;25,82
+Calle 26;Las Aguas;19,09;16;0;3094;1;Nublado;7;52,94
+Toberín;Las Aguas;19,57;6;5;3538;0;Nublado;9;49,79
+Prado;Universidad Nacional;8,14;17;6;598;0;Normal;8;34,14
+Ricaurte;Perdomo;9,9;19;0;651;0;Nublado;8;37,6
+La Castellana;Comuneros;7,25;15;2;2775;1;Normal;6;32,75
+7 de Agosto;Perdomo;1,73;9;3;896;2;Normal;9;34,16
+Las Aguas;Comuneros;2,19;16;6;2061;1;Normal;6;29,91
+General Santander;7 de Agosto;5,79;10;0;880;0;Normal;1;16,29
+Perdomo;General Santander;10,97;13;1;3701;0;Normal;4;29,87
+Universidad Nacional;Calle 100;4,77;18;3;2247;2;Nublado;6;38,42
+General Santander;Ricaurte;18,34;17;6;340;2;Nublado;9;54,47
+Av. Jiménez;Las Aguas;3,75;15;0;916;1;Lluvia;4;28,33
+Prado;General Santander;5,99;5;3;3709;0;Nublado;6;31,06
+Prado;Toberín;5,15;11;3;3152;2;Nublado;5;33,56
+Ricaurte;La Castellana;19,1;5;2;3633;1;Normal;3;42,1
+Prado;Portal Sur;13,33;19;3;1980;1;Normal;9;45,98
+Av. Eldorado;Prado;18,6;19;3;1828;0;Nublado;6;44,28
+Comuneros;Universidad Nacional;17,06;18;5;1460;2;Nublado;5;50,32
+Prado;Calle 142;13,34;18;0;2333;2;Nublado;9;49,98
+Perdomo;Calle 26;12,04;6;5;1487;1;Normal;8;42,89
+Prado;La Castellana;17,27;8;2;3551;1;Normal;10;54,64
+Comuneros;Portal Norte;18,85;12;4;1461;1;Lluvia;3;42,22
+General Santander;NQS Calle 75;1,08;18;0;363;0;Normal;7;24,81
+Calle 26;Las Aguas;7,03;10;4;2061;0;Nublado;4;24,37
+Portal Américas;Comuneros;16,74;18;1;2906;1;Lluvia;6;48,49
+Av. Eldorado;Calle 26;4,01;12;0;3208;0;Nublado;6;26,79
+Comuneros;7 de Agosto;16,91;10;2;1134;0;Normal;4;33,24
+Av. Jiménez;Calle 127;1,53;7;4;1866;0;Nublado;6;26,45
+Portal Américas;Ricaurte;4,54;12;2;1093;2;Lluvia;6;36,45
+Comuneros;7 de Agosto;13,53;13;0;888;2;Normal;5;42,27
+Prado;Perdomo;18,62;8;0;880;1;Normal;6;44,72
+Portal Sur;Ricaurte;18,34;11;3;712;1;Nublado;4;39,78
+Portal Américas;Calle 142;5;18;3;3944;1;Nublado;8;38,87
+Calle 100;Universidad Nacional;1,19;10;5;2623;2;Nublado;1;20,72
+Av. Eldorado;Ricaurte;10,19;5;1;2437;2;Normal;1;30,22
+Portal Norte;Quinta Paredes;1,44;21;6;924;0;Lluvia;1;16,72
+Portal Norte;Av. Eldorado;3,63;7;5;3132;0;Normal;8;29,18
+Calle 142;Ricaurte;14,45;14;3;3352;1;Normal;4;39,9
+7 de Agosto;Calle 100;4,76;13;3;721;2;Nublado;5;30,82
+La Castellana;Portal Sur;9,24;19;3;2742;2;Normal;7;43,3
+Las Aguas;Comuneros;9,16;16;2;3977;2;Lluvia;8;47,12
+Toberín;Calle 26;5,81;18;2;2773;2;Lluvia;9;44,7
+Portal Norte;Prado;4,42;15;3;3539;0;Normal;1;16,59
+Ricaurte;Portal Américas;3,76;15;0;339;1;Nublado;6;27,12
+Perdomo;Av. Jiménez;16,11;12;4;571;1;Normal;2;34,51
+Prado;Quinta Paredes;6,28;7;4;3956;2;Normal;8;41,39
+Av. Eldorado;La Castellana;4,75;20;3;491;1;Normal;1;19,38
+Las Aguas;Av. Eldorado;12,23;12;4;387;1;Normal;7;39,71
+Portal Norte;Perdomo;6,4;17;0;3969;2;Lluvia;5;39,52
+Portal Norte;Calle 142;9,93;18;5;1532;1;Normal;7;38,2
+Quinta Paredes;Av. Eldorado;10,38;6;3;1522;2;Lluvia;8;49,2
+Prado;Ricaurte;18,82;8;0;1217;0;Lluvia;6;44,28
+Av. Eldorado;General Santander;5,3;7;1;3265;1;Lluvia;9;43,07
+Toberín;7 de Agosto;17,78;6;0;496;1;Normal;7;47,51
+Comuneros;7 de Agosto;14,27;9;4;2187;0;Normal;6;39,45
+General Santander;Perdomo;13,7;21;4;1285;2;Normal;4;41,53
+Av. Eldorado;Portal Sur;5,29;13;6;1513;2;Normal;5;33,19
+NQS Calle 75;La Castellana;14,2;7;3;546;0;Normal;6;36,86
+Comuneros;La Castellana;10,27;15;1;3634;2;Nublado;5;41,77
+Universidad Nacional;Perdomo;13,45;21;0;832;0;Lluvia;4;35,86
+Las Aguas;Calle 26;4,86;17;1;581;1;Normal;10;36,3
+Av. Jiménez;Prado;3,8;8;5;751;0;Normal;8;27,34
+Portal Norte;Portal Sur;13,58;19;2;1387;0;Lluvia;5;37,69
+La Castellana;Calle 127;8,54;18;4;1666;0;Normal;7;31,5
+Portal Américas;Comuneros;14,91;18;1;1504;0;Normal;9;42,8
+Las Aguas;Portal Sur;10,85;8;5;504;2;Normal;5;38,28
+Toberín;Portal Américas;11,93;12;0;2479;0;Normal;5;33,08
+Comuneros;Portal Américas;8,46;12;5;3675;2;Normal;2;30,88
+La Castellana;Ricaurte;13,1;14;5;312;0;Normal;6;34,01
+Universidad Nacional;NQS Calle 75;4,23;7;1;1067;1;Lluvia;6;34,8
+Portal Sur;General Santander;7,35;10;2;3909;0;Normal;7;33,02
+Las Aguas;Ricaurte;19,42;5;3;3876;0;Normal;1;36,54
+Av. Jiménez;Universidad Nacional;16,87;21;4;985;0;Nublado;1;30,14
+Av. Eldorado;Perdomo;10,32;16;4;1354;2;Normal;7;42,73
+Ricaurte;Universidad Nacional;14,49;21;6;3019;2;Normal;3;41,02
+Portal Américas;Portal Norte;3,81;18;6;1202;2;Lluvia;7;38,27
+NQS Calle 75;Av. Jiménez;15,08;18;2;1145;2;Normal;8;50,45
+7 de Agosto;Quinta Paredes;18,09;19;4;1016;1;Lluvia;7;52,1
+Comuneros;Av. Jiménez;8,93;13;2;1080;0;Nublado;6;29,74
+Las Aguas;Prado;9,24;19;4;3546;1;Normal;5;36,08
+Calle 127;Perdomo;13,94;21;2;2855;2;Nublado;3;40,46
+Calle 142;Universidad Nacional;1,3;6;1;1459;2;Normal;8;33,53
+General Santander;Ricaurte;13,54;5;0;1329;0;Normal;3;30,92
+Calle 26;Quinta Paredes;3,95;7;5;1408;0;Lluvia;6;28,64
+Calle 142;Universidad Nacional;5,16;20;2;1318;2;Nublado;4;30,43
+Prado;7 de Agosto;18,48;14;1;2609;1;Nublado;3;42,74
+Calle 127;La Castellana;5,75;18;4;1117;1;Normal;7;33,71
+Portal Américas;Perdomo;11,37;17;6;3887;1;Normal;9;45,38
+Av. Eldorado;Calle 26;18,76;16;3;1750;1;Normal;8;50,48
+Quinta Paredes;Portal Norte;19,19;18;0;3395;0;Nublado;7;48,94
+Av. Jiménez;Calle 26;8,09;14;0;3393;1;Normal;6;32,35
+Calle 26;Perdomo;16,94;7;0;1406;2;Normal;9;52,34
+Universidad Nacional;Av. Jiménez;10,15;15;6;549;0;Nublado;6;31,37
+Toberín;La Castellana;10,81;20;1;1215;2;Nublado;2;33,05
+Universidad Nacional;Portal Norte;16,31;11;0;575;0;Normal;1;29,01
+NQS Calle 75;La Castellana;2,97;5;6;2371;1;Normal;1;18,29
+Portal Sur;Calle 100;16,59;13;6;2809;2;Normal;6;48,09
+General Santander;Calle 127;13,09;10;1;3652;2;Nublado;2;38,54
+Quinta Paredes;La Castellana;10,05;14;2;3034;0;Lluvia;4;31,36
+7 de Agosto;Comuneros;8,33;8;3;2007;1;Normal;7;36,98
+Av. Jiménez;Comuneros;1,21;14;0;2942;2;Lluvia;5;31,12
+Ricaurte;Calle 127;9,89;19;2;337;0;Normal;9;35,8
+Calle 26;Comuneros;10,75;10;5;920;1;Nublado;5;33,99
+Calle 127;7 de Agosto;15,91;14;3;579;2;Normal;4;42
+Calle 100;Av. Jiménez;14,46;21;6;2998;2;Normal;6;44,62
+Av. Jiménez;Ricaurte;12,11;17;0;484;0;Lluvia;6;36,46
+Prado;Portal Sur;18,75;20;2;3412;0;Lluvia;7;48,97
+NQS Calle 75;Prado;18,1;10;5;3955;1;Nublado;4;45,6
+Toberín;Las Aguas;5,76;6;6;3371;0;Normal;7;31,76
+Portal Norte;Calle 100;7,1;19;3;845;2;Nublado;6;36,85
+Portal Sur;Perdomo;13,9;12;1;3339;0;Normal;5;36,5
+La Castellana;Calle 142;12,06;8;1;436;0;Lluvia;7;40,23
+Av. Jiménez;Quinta Paredes;17,43;15;1;3094;2;Lluvia;6;52,39
+Portal Sur;La Castellana;16,82;20;4;1742;1;Nublado;5;43,71
+Calle 142;Perdomo;9,12;17;6;590;2;Normal;9;43,47
+Prado;Portal Sur;5,38;15;0;1217;1;Lluvia;3;26,86
+Ricaurte;Calle 142;17,58;10;2;606;2;Nublado;7;49,69
+Las Aguas;Calle 26;6,93;6;4;3157;0;Nublado;7;34,11
+Toberín;Av. Eldorado;9,01;11;2;3937;0;Normal;5;31,41
+Av. Eldorado;Toberín;5,48;7;6;2609;2;Nublado;5;35,36
+Calle 142;General Santander;12,36;7;4;2261;0;Normal;5;33,01
+Portal Sur;Calle 26;5,28;16;3;2256;1;Nublado;6;31,24
+Toberín;Portal Norte;15,7;11;4;2790;1;Nublado;6;41,65
+Portal Sur;Toberín;8,36;17;5;812;1;Nublado;9;39,14
+Perdomo;Prado;18,05;16;2;1093;1;Normal;5;43,12
+Calle 142;Av. Jiménez;1,19;18;5;3382;2;Nublado;5;33,18
+NQS Calle 75;Toberín;2,46;9;3;1039;1;Normal;7;30
+NQS Calle 75;Universidad Nacional;3,46;17;3;2993;0;Nublado;5;24,97
+Quinta Paredes;La Castellana;10,4;16;6;1202;1;Nublado;7;40,98
+Universidad Nacional;NQS Calle 75;11,01;13;2;3158;2;Nublado;1;33,38
+General Santander;Las Aguas;10,24;7;1;861;2;Normal;10;47,71
+Prado;Ricaurte;14,77;9;0;1262;2;Normal;8;51,45
+Portal Norte;Portal Sur;16,89;13;2;2709;1;Normal;1;33,62
+Las Aguas;Comuneros;10,41;17;3;2118;0;Normal;8;36,07
+General Santander;Quinta Paredes;1,99;14;0;2518;1;Lluvia;5;28,9
+Av. Eldorado;7 de Agosto;16,39;11;6;412;1;Nublado;5;40,43
+General Santander;Toberín;16,34;17;5;3076;1;Lluvia;9;53,51
+Av. Jiménez;Portal Américas;15,61;13;1;1861;1;Nublado;2;34,43
+Portal Norte;7 de Agosto;16,19;13;0;1323;2;Normal;5;43,8
+Las Aguas;7 de Agosto;7,87;13;6;2974;2;Normal;3;32,9
+Av. Eldorado;7 de Agosto;17,1;19;3;370;1;Normal;5;44,34
+Portal Sur;Quinta Paredes;5,14;6;4;625;1;Lluvia;9;37,99
+Calle 142;Perdomo;4,42;13;2;3859;1;Normal;6;29,2
+Las Aguas;Toberín;5,42;6;1;3103;2;Lluvia;9;44,39
+Quinta Paredes;NQS Calle 75;2,16;13;2;366;2;Lluvia;7;33,1
+Toberín;Las Aguas;5,46;8;0;2376;1;Normal;5;29,71
+Av. Eldorado;Av. Jiménez;8,06;18;0;2929;1;Lluvia;6;37,01
+Las Aguas;Ricaurte;7,36;18;5;1834;1;Lluvia;7;39,38
+Calle 100;Ricaurte;1,85;9;4;404;0;Nublado;7;25,41
+Calle 26;Av. Jiménez;14,54;11;3;3702;2;Normal;6;44,61
+Portal Américas;Calle 142;19,15;12;4;2362;2;Nublado;6;50,86
+Prado;Calle 26;16,17;20;5;2448;2;Normal;3;40,52
+Av. Jiménez;Universidad Nacional;18,31;15;1;3572;1;Normal;3;42,13
+Prado;NQS Calle 75;9,46;18;2;626;1;Nublado;5;36,56
+Portal Américas;Portal Sur;12,5;19;6;2015;0;Nublado;6;38,96
+NQS Calle 75;General Santander;13,81;9;4;1366;1;Normal;5;37,85
+General Santander;Calle 26;19,68;20;5;3910;0;Lluvia;4;41,75
+Prado;General Santander;6;20;5;713;0;Lluvia;7;30,12
+Calle 100;Calle 142;3,52;21;3;2029;1;Normal;6;28,17
+Universidad Nacional;Prado;7,4;15;4;2793;2;Normal;6;35,22
+Ricaurte;Perdomo;18,3;19;5;3719;1;Normal;8;52,54
+Calle 100;Av. Jiménez;18,41;21;0;923;0;Nublado;3;36,74
+Perdomo;Comuneros;7,09;10;4;3259;2;Normal;7;37,16
+Universidad Nacional;Portal Sur;7,48;21;4;2674;2;Lluvia;4;35,77
+Comuneros;Av. Eldorado;15,39;9;0;3634;2;Lluvia;10;57,57
+Calle 26;7 de Agosto;11,93;15;0;1722;1;Normal;3;31,35
+Perdomo;NQS Calle 75;17,82;14;2;2782;0;Lluvia;6;43,13
+Prado;La Castellana;11,49;21;6;991;0;Nublado;1;26,58
+Quinta Paredes;Portal Américas;16,18;5;3;3709;0;Normal;3;36,57
+Av. Jiménez;General Santander;14,91;21;1;3703;1;Normal;1;34,8
+Prado;Perdomo;17,89;20;2;655;0;Lluvia;6;42,99
+Ricaurte;Calle 142;15,14;12;5;604;1;Normal;3;34,12
+Portal Américas;Calle 26;13,77;7;5;3117;1;Lluvia;5;43,67
+Calle 26;Av. Eldorado;4,62;6;5;2869;0;Normal;9;32,51
+NQS Calle 75;La Castellana;6,04;9;3;3633;0;Nublado;7;31,4
+Portal Américas;Calle 142;19,07;11;0;2078;0;Normal;5;39
+Calle 100;Toberín;8,95;13;4;1857;2;Nublado;6;38,43
+Calle 26;Calle 100;17,68;12;2;3036;1;Normal;6;44,63
+Ricaurte;Quinta Paredes;10,14;8;1;760;1;Normal;8;39,2
+General Santander;Prado;4,35;15;5;765;1;Nublado;6;27,35
+Portal Sur;Portal Américas;12,42;12;0;1491;1;Nublado;7;41,56
+Toberín;Quinta Paredes;15,66;13;5;1600;1;Normal;4;37,84
+7 de Agosto;Toberín;6,1;12;2;2906;0;Normal;4;23,12
+Calle 100;Quinta Paredes;4,92;8;4;2801;1;Normal;9;35,37
+Portal Norte;Comuneros;2,71;15;2;3440;2;Normal;1;23,76
+Ricaurte;Quinta Paredes;4,77;10;6;2494;1;Lluvia;2;25,12
+Calle 100;Ricaurte;7,3;11;4;3303;0;Lluvia;1;25,23
+Calle 26;Prado;10,53;20;0;942;1;Normal;2;28,82
+NQS Calle 75;Toberín;6,18;8;6;3511;1;Nublado;6;36,51
+7 de Agosto;Calle 142;2,45;21;5;3181;2;Normal;1;24,14
+Quinta Paredes;Las Aguas;18,46;8;5;2709;1;Normal;9;54,22
+Av. Eldorado;General Santander;10,73;5;2;1422;1;Normal;3;32,5
+Av. Jiménez;Portal Sur;8,16;18;0;1210;1;Nublado;8;38,13
+Quinta Paredes;Calle 26;5,65;5;3;3280;1;Lluvia;7;36,32
+Prado;Perdomo;5,26;5;3;3458;0;Normal;4;23,98
+Portal Américas;Universidad Nacional;7,32;7;0;2597;0;Normal;8;34,56
+Calle 142;Calle 127;8,66;20;4;3261;2;Nublado;1;32,45
+7 de Agosto;General Santander;6,92;15;6;916;0;Normal;5;25,62
+Portal Norte;7 de Agosto;14,12;20;4;2347;1;Lluvia;2;35,88
+Portal Sur;Calle 26;11,54;7;0;2043;2;Normal;6;44,2
+Calle 100;Calle 26;15,21;10;1;2092;0;Normal;4;34,02
+Portal Américas;Calle 26;10,26;18;3;337;1;Normal;7;38,86
+7 de Agosto;Calle 26;7,13;16;4;2963;0;Normal;9;36,71
+Las Aguas;Ricaurte;10,87;13;3;2195;0;Lluvia;6;36,41
+Calle 127;Calle 100;10,96;20;0;1601;1;Normal;4;31,01
+Portal Norte;Universidad Nacional;14,33;11;5;684;2;Normal;1;32,99
+Perdomo;Las Aguas;3,97;16;5;2590;0;Normal;5;26,94
+7 de Agosto;Universidad Nacional;16,59;18;4;3287;1;Normal;8;51,15
+Quinta Paredes;Portal Américas;13,19;11;0;2727;0;Normal;2;27,96
+7 de Agosto;Av. Jiménez;2,94;21;4;2941;1;Normal;7;31,15
+Las Aguas;7 de Agosto;19,37;20;1;988;0;Nublado;2;33,86
+Las Aguas;Calle 127;3,72;20;6;301;1;Normal;1;16,78
+Perdomo;General Santander;13,63;15;2;2349;0;Normal;4;31,94
+Comuneros;Portal Sur;7,74;21;2;2473;0;Lluvia;7;32,72
+Calle 100;7 de Agosto;14,52;18;4;2108;1;Nublado;7;46,1
+Quinta Paredes;General Santander;13,39;10;0;3847;1;Lluvia;7;46,18
+General Santander;La Castellana;12,72;11;3;1832;0;Lluvia;1;27,64
+Ricaurte;Calle 26;4,7;14;2;685;1;Lluvia;5;31,16
+Las Aguas;7 de Agosto;1,64;13;5;2260;1;Normal;6;26,79
+7 de Agosto;Toberín;19,45;5;6;3241;1;Lluvia;6;50,09
+Calle 100;Portal Sur;15,25;8;0;1813;0;Nublado;10;45,66
+Calle 100;Calle 127;2,57;8;0;2116;2;Nublado;7;34,01
+Quinta Paredes;7 de Agosto;19,68;11;5;2814;2;Normal;7;53,56
+Av. Eldorado;Calle 100;18,21;16;4;358;2;Normal;10;56,92
+Calle 142;La Castellana;16,68;21;1;3285;1;Normal;4;38,9
+Las Aguas;La Castellana;14,09;18;1;2902;2;Lluvia;5;47,37
+Quinta Paredes;Ricaurte;3,24;19;4;3724;2;Normal;8;36,78
+Calle 142;Calle 100;14,86;10;2;2721;2;Lluvia;7;48,93
+Portal Norte;La Castellana;13,12;19;0;3893;2;Lluvia;7;52,58
+Portal Américas;La Castellana;15,2;9;2;518;1;Nublado;6;42,23
+Av. Jiménez;Av. Eldorado;8,87;11;2;3919;0;Normal;3;25,6
+Perdomo;7 de Agosto;2,76;16;4;1789;1;Nublado;9;34,76
+Portal Américas;Calle 100;1,7;17;1;2503;2;Normal;10;38,78
+Portal Américas;Universidad Nacional;4,94;21;4;3699;2;Nublado;1;27,52
+La Castellana;7 de Agosto;5,15;13;0;772;2;Nublado;2;26,87
+Perdomo;Av. Jiménez;7,14;17;5;2710;0;Normal;5;29,49
+Portal Norte;Calle 100;9,01;15;2;2953;0;Normal;3;25,15
+Perdomo;Quinta Paredes;4,54;5;3;3614;2;Normal;5;33,51
+Comuneros;Portal Sur;16,85;13;5;1828;2;Normal;6;46,71
+Toberín;NQS Calle 75;15,5;21;0;2024;1;Nublado;5;40,61
+Portal Norte;Calle 100;10,73;14;4;3157;2;Normal;5;40,48
+Calle 127;Av. Eldorado;15,98;6;0;1566;0;Lluvia;8;45,87
+Perdomo;Portal Norte;13,51;11;1;1534;1;Normal;2;33,65
+General Santander;Calle 142;14,76;9;5;2574;1;Normal;6;42,7
+Portal Sur;Quinta Paredes;14,05;11;3;3037;1;Lluvia;6;42,86
+Prado;Comuneros;3,44;9;3;3467;1;Lluvia;10;41,77
+General Santander;Las Aguas;8,48;7;2;2300;2;Nublado;9;44,08
+Las Aguas;Calle 100;15,59;16;2;1692;2;Lluvia;9;56,04
+Comuneros;Calle 142;13,27;9;3;1069;0;Normal;8;38,12
+Comuneros;Calle 100;9,09;14;2;1884;2;Lluvia;1;31,77
+General Santander;Calle 100;4,11;21;6;735;1;Lluvia;3;26,18
+Prado;Comuneros;16,27;5;1;1606;0;Nublado;4;36,59
+Portal Norte;Portal Sur;13,42;17;3;3459;0;Normal;7;41,18
+Prado;Las Aguas;16,34;19;4;1827;1;Nublado;9;52,5
+Prado;Calle 100;19,63;17;6;3063;0;Normal;7;48,82
+Av. Jiménez;7 de Agosto;4,75;19;3;498;1;Normal;5;29,85
+Perdomo;Ricaurte;1,95;16;2;2043;1;Nublado;5;27,62
+Calle 100;Universidad Nacional;7,78;5;3;1629;1;Nublado;5;30,25
+Toberín;Quinta Paredes;15,03;12;1;644;2;Normal;6;42,6
+Portal Sur;General Santander;17,96;16;3;3122;2;Normal;10;59,54
+Av. Jiménez;Perdomo;1,77;15;2;456;0;Nublado;6;22,17
+Prado;Comuneros;10,74;7;2;2908;2;Normal;8;44,46
+7 de Agosto;Calle 142;16,9;18;0;3550;0;Nublado;7;45,76
+Quinta Paredes;NQS Calle 75;14,19;6;2;2648;1;Normal;8;45,22
+Calle 100;7 de Agosto;10,53;6;4;1932;0;Nublado;7;34,64
+La Castellana;Portal Norte;15,86;9;2;1393;1;Nublado;10;50,67
+NQS Calle 75;Portal Américas;1,34;15;1;561;2;Normal;6;28,65
+Perdomo;Av. Jiménez;8,99;15;4;1893;1;Lluvia;1;27,99
+Av. Eldorado;Ricaurte;16,63;9;3;3799;2;Normal;9;56,38
+Comuneros;7 de Agosto;8,66;7;5;2292;2;Lluvia;5;40,2
+Calle 26;Ricaurte;6,78;15;3;3062;1;Normal;5;31,19
+Las Aguas;Ricaurte;11,73;18;6;395;1;Nublado;8;44,38
+Comuneros;Quinta Paredes;3,5;8;0;1920;0;Normal;5;24,41
+Calle 100;Portal Américas;15,57;17;4;1973;1;Nublado;8;49,75
+7 de Agosto;Av. Eldorado;15,64;8;5;3923;2;Lluvia;10;58,53
+Quinta Paredes;Portal Américas;8,45;17;3;3399;1;Normal;8;38,78
+Calle 100;Comuneros;6,48;15;6;2200;2;Normal;1;26,52
+Portal Américas;General Santander;19,51;18;1;2906;0;Nublado;6;46,5
+Calle 26;Calle 142;12,39;18;0;1631;2;Normal;9;49,41
+Calle 142;Ricaurte;1,43;17;4;2394;0;Lluvia;6;26,67
+NQS Calle 75;Calle 100;9,97;11;2;843;1;Normal;1;24,7
+Perdomo;Portal Américas;5,66;19;1;3563;0;Lluvia;9;38,34
+Las Aguas;Av. Eldorado;17,57;10;1;2193;2;Lluvia;1;43,73
+General Santander;Calle 26;19,92;17;0;3507;1;Lluvia;10;59,98
+Las Aguas;Quinta Paredes;14,58;19;3;3690;2;Normal;8;52,76
+Toberín;Ricaurte;8,59;21;5;2960;1;Normal;1;24,46
+7 de Agosto;Av. Jiménez;15,32;8;5;992;1;Normal;7;42,91
+NQS Calle 75;Portal Sur;4,99;8;2;2929;2;Normal;10;43,15
+NQS Calle 75;7 de Agosto;7,51;19;2;3525;1;Nublado;9;40,98
+Toberín;Calle 127;3,81;14;0;1205;1;Nublado;6;27,75
+Calle 100;Av. Jiménez;13,04;20;5;2101;2;Normal;6;44,17
+Calle 127;Portal Américas;12,54;17;2;2908;0;Normal;6;37,38
+Calle 127;Av. Jiménez;1,23;16;5;2383;2;Lluvia;9;39,32
+Las Aguas;Calle 100;19,48;9;4;3792;2;Normal;7;54,97
+Portal Sur;Calle 100;17,54;20;1;2282;1;Normal;1;35,14
+Universidad Nacional;La Castellana;5,26;13;4;3486;2;Nublado;6;34,94
+Portal Sur;Perdomo;11,82;5;6;3356;2;Lluvia;6;44,4
+Toberín;Comuneros;12,9;15;4;575;1;Nublado;5;38,2
+Quinta Paredes;Calle 142;19,44;6;3;2621;2;Normal;7;55,63
+Calle 100;NQS Calle 75;5,34;19;1;464;2;Normal;7;34,79
+La Castellana;Calle 142;18,22;9;4;1540;0;Normal;6;42,78
+Av. Jiménez;Portal Sur;9,82;6;2;3535;2;Normal;8;44,3
+Calle 142;Portal Sur;4,75;11;4;2295;1;Nublado;5;28,59
+Prado;Perdomo;15,77;11;4;3600;2;Nublado;4;46,9
+7 de Agosto;General Santander;12,43;20;5;1023;1;Nublado;5;35,78
+Portal Américas;Universidad Nacional;6,02;12;2;1427;2;Nublado;3;30,72
+Prado;Calle 100;10,26;15;4;2227;1;Normal;1;28,4
+Universidad Nacional;Prado;18,58;19;2;2912;2;Nublado;6;51,77
+Prado;NQS Calle 75;5,05;21;2;1610;2;Normal;6;32,55
+Las Aguas;La Castellana;11,85;9;2;940;0;Nublado;6;37,02
+Las Aguas;Calle 100;7,19;21;3;2976;2;Nublado;7;40,55
+NQS Calle 75;7 de Agosto;9,97;14;2;893;1;Normal;3;30,63
+Av. Eldorado;Perdomo;6,85;17;6;2008;0;Nublado;8;32,37
+General Santander;Ricaurte;13,27;9;3;3441;1;Normal;10;47,94
+7 de Agosto;Universidad Nacional;16,82;5;2;2051;1;Normal;5;42,51
+La Castellana;Las Aguas;10,56;13;0;604;0;Normal;6;30,77
+Av. Jiménez;Portal Sur;19,09;6;6;3000;1;Nublado;10;56,4
+7 de Agosto;Las Aguas;12,14;6;0;529;2;Normal;9;47,18
+Universidad Nacional;Prado;9,96;7;2;3475;2;Normal;6;44,05
+Av. Jiménez;Universidad Nacional;11,91;7;3;1304;1;Nublado;10;45,83
+Calle 26;Universidad Nacional;14,1;9;6;3453;0;Lluvia;10;49,94
+Av. Eldorado;Ricaurte;18,2;19;5;3923;0;Normal;8;46,71
+Ricaurte;Av. Eldorado;4,78;13;2;2772;2;Lluvia;2;28,68
+General Santander;Portal Américas;8,53;20;6;496;2;Normal;5;34,22
+Av. Jiménez;General Santander;19,92;21;6;3569;1;Nublado;4;44,81
+Av. Eldorado;Calle 142;14,95;7;4;3497;0;Nublado;9;47,79
+Calle 142;Av. Jiménez;18,53;11;6;599;2;Normal;3;42,77
+Calle 127;Av. Eldorado;2,39;15;3;2461;2;Nublado;4;30,16
+Comuneros;Av. Jiménez;6,58;17;0;334;0;Normal;6;27,08
+NQS Calle 75;Av. Jiménez;13,82;15;4;2174;2;Nublado;7;47,89
+Ricaurte;Av. Jiménez;3,9;9;1;1563;0;Normal;9;31,5
+Toberín;Calle 127;11,26;7;2;3865;1;Lluvia;10;49,01
+Universidad Nacional;Calle 100;9,06;13;1;1189;1;Normal;4;28,7
+Comuneros;Portal Norte;9,44;11;3;501;1;Normal;2;25,5
+Comuneros;Av. Jiménez;16,48;7;1;2375;2;Nublado;5;47,08
+La Castellana;Prado;18,87;16;5;1597;1;Normal;5;46,73
+Ricaurte;Portal Sur;5,85;8;3;366;0;Normal;8;30,23
+Prado;Ricaurte;7,85;14;6;567;1;Lluvia;6;33,9
+Calle 142;Comuneros;17,64;5;2;3288;2;Lluvia;1;42,29
+NQS Calle 75;Calle 100;11,73;9;4;937;0;Nublado;5;32,02
+La Castellana;Universidad Nacional;8,06;18;6;945;1;Normal;9;41,22
+Calle 100;Ricaurte;17,7;8;6;965;0;Normal;7;42,67
+Ricaurte;7 de Agosto;12,82;5;6;405;1;Normal;4;32,02
+Calle 127;General Santander;1,88;17;6;2751;2;Nublado;6;32,05
+Ricaurte;NQS Calle 75;2,75;7;0;2248;1;Lluvia;9;37,1
+Las Aguas;Portal Norte;6,92;20;2;825;1;Nublado;3;28,57
+Prado;Portal Sur;10,36;11;1;1198;2;Normal;2;31,21
+Calle 142;Prado;14,63;14;4;731;0;Normal;2;29,75
+Universidad Nacional;Av. Eldorado;14,5;19;5;2719;2;Nublado;7;50,88
+Calle 127;Av. Eldorado;9,02;9;4;3316;0;Nublado;8;38,26
+La Castellana;Calle 100;1,27;6;6;3555;0;Normal;7;24,37
+Portal Sur;Portal Américas;17,3;11;5;3861;2;Normal;2;42,33
+7 de Agosto;Quinta Paredes;9,36;13;5;3447;2;Lluvia;3;39,72
+Calle 100;7 de Agosto;7,48;20;6;2548;1;Nublado;6;35,35
+Calle 26;7 de Agosto;2,2;16;3;2930;0;Lluvia;6;26,55
+Perdomo;Prado;3,29;14;1;3877;1;Normal;4;26,03
+Calle 142;Calle 26;4,47;21;1;880;2;Normal;1;22,37
+Ricaurte;Calle 26;12,42;9;4;3822;2;Nublado;9;51,22
+NQS Calle 75;Calle 26;4,17;10;0;3086;0;Nublado;7;28,74
+Calle 127;Quinta Paredes;18,9;18;6;1128;1;Normal;8;49,46
+Calle 26;General Santander;17,98;19;2;857;2;Lluvia;5;49,19
+Quinta Paredes;Universidad Nacional;4,97;7;0;3393;1;Normal;8;37,43
+NQS Calle 75;Comuneros;15,94;18;3;2722;0;Normal;7;40,78
+7 de Agosto;Calle 127;17,96;8;5;3329;2;Lluvia;6;53,45
+Calle 127;7 de Agosto;15,45;5;5;780;2;Normal;1;37,2
+Las Aguas;Portal Sur;5,41;19;2;3667;0;Nublado;9;35,39
+Calle 142;Av. Eldorado;17,63;6;3;3732;1;Normal;8;50,69
+Calle 100;Portal Sur;15,41;12;4;722;0;Lluvia;5;39,66
+Ricaurte;NQS Calle 75;17,52;20;6;3173;1;Normal;6;43,41
+7 de Agosto;Portal Américas;18,19;21;2;2018;2;Lluvia;3;45,03
+Prado;Portal Sur;5,61;20;1;2721;1;Nublado;1;25,41
+Portal Sur;Quinta Paredes;12,53;17;4;2425;2;Normal;9;48,16
+Portal Américas;Prado;11,94;8;6;1277;1;Nublado;10;48,41
+General Santander;Comuneros;14,65;6;2;2950;1;Lluvia;9;53,06
+Toberín;Comuneros;16,45;18;5;405;0;Nublado;5;39,28
+Av. Eldorado;Prado;6,55;18;6;416;2;Normal;7;37,21
+Ricaurte;Portal Américas;19,5;12;2;2126;0;Normal;6;44,36
+7 de Agosto;Calle 100;4,98;15;5;1943;1;Nublado;2;25,13
+Calle 142;Av. Eldorado;7,68;12;2;3694;1;Normal;6;32,47
+Comuneros;Av. Eldorado;12,81;10;6;1867;0;Normal;6;34,43
+Av. Eldorado;Perdomo;18,02;10;1;1622;0;Normal;5;37,82
+Calle 26;Quinta Paredes;6,63;10;3;2833;2;Normal;1;26,05
+Las Aguas;Comuneros;17,19;9;5;1693;2;Normal;6;51,06
+Prado;Universidad Nacional;12,65;7;2;1220;1;Lluvia;6;42,96
+7 de Agosto;Portal Norte;10,4;12;1;3884;0;Normal;7;33,96
+Portal Norte;Universidad Nacional;5,63;5;6;2807;1;Lluvia;4;30,84
+Av. Jiménez;La Castellana;8,83;21;4;1936;2;Nublado;4;36,56
+Ricaurte;7 de Agosto;9,19;16;1;1611;2;Normal;10;45,45
+NQS Calle 75;Quinta Paredes;12;8;6;2378;2;Normal;7;44,1
+Las Aguas;NQS Calle 75;14,68;12;3;1402;2;Lluvia;4;44,33
+Portal Sur;Av. Jiménez;9,29;10;0;2593;1;Nublado;1;29,13
+Portal Sur;Calle 127;2,21;16;0;3244;1;Nublado;10;35,36
+Las Aguas;Portal Sur;9,19;9;3;1181;2;Normal;9;45,64
+Universidad Nacional;Av. Eldorado;5,42;21;3;890;2;Lluvia;5;33,73
+Portal Norte;Las Aguas;2,01;16;4;790;0;Nublado;9;28,92
+Calle 100;La Castellana;5,73;10;6;1042;0;Nublado;4;24,17
+Av. Eldorado;Calle 142;2,79;17;4;3171;2;Normal;8;36,98
+Portal Sur;Calle 127;17,1;10;0;1574;1;Normal;4;41,29
+Portal Sur;Calle 142;4,51;17;1;1228;1;Lluvia;10;38,54
+Perdomo;Prado;10,95;5;4;549;2;Normal;3;32,53
+Portal Norte;Calle 26;1,24;15;3;1554;0;Lluvia;5;22,47
+Calle 142;Calle 100;4,58;20;1;2492;0;Lluvia;1;21,53
+Calle 127;Las Aguas;8,11;10;3;3193;0;Nublado;7;34,16
+Portal Norte;Las Aguas;1,74;8;6;1576;1;Normal;10;33,04
+Calle 26;Calle 100;18,1;20;1;2771;0;Lluvia;3;40,98
+Quinta Paredes;Comuneros;15,9;8;5;2571;0;Normal;7;40,89
+Portal Sur;La Castellana;16,09;6;2;540;1;Lluvia;10;53,78
+Av. Jiménez;Prado;17,11;7;5;2982;1;Lluvia;9;54,76
+Quinta Paredes;Calle 26;8,49;11;2;1612;0;Normal;2;21,68
+Portal Américas;General Santander;8,68;17;0;2308;0;Normal;7;34,05
+Las Aguas;Comuneros;6,81;14;6;3101;2;Normal;7;36,48
+Calle 142;Universidad Nacional;17,95;10;5;1584;2;Normal;1;37,85
+Universidad Nacional;Comuneros;4,58;6;6;3680;2;Lluvia;10;46,37
+Calle 100;Calle 26;8,05;6;1;704;1;Lluvia;6;37,89
+Calle 142;La Castellana;10,41;5;0;1862;0;Lluvia;1;27,92
+Portal Norte;NQS Calle 75;13,53;15;1;1897;0;Normal;7;36,65
+Calle 127;Portal Américas;12,38;13;3;3086;2;Nublado;6;43,25
+Portal Américas;7 de Agosto;8,77;5;3;3673;1;Normal;7;38,65
+Portal Sur;7 de Agosto;12,4;17;0;3150;1;Normal;10;46,78
+Portal Américas;Prado;3,19;20;0;1051;2;Normal;6;29,77
+Comuneros;Universidad Nacional;11,19;14;6;2635;1;Normal;1;28,34
+La Castellana;Calle 142;11,54;20;1;820;2;Lluvia;4;39,67
+Prado;NQS Calle 75;1,72;17;1;642;2;Lluvia;6;33,46
+Ricaurte;Perdomo;15,03;19;4;3450;0;Nublado;9;47,53
+La Castellana;Portal Américas;14,77;6;4;358;0;Normal;7;40,87
+Ricaurte;Perdomo;4,81;6;3;1856;0;Lluvia;9;33,63
+Calle 100;La Castellana;7,38;19;0;3868;1;Normal;6;36,32
+Universidad Nacional;Quinta Paredes;4,06;15;0;756;2;Normal;5;29,94
+Las Aguas;Calle 100;14,76;15;2;457;0;Lluvia;6;37,49
+Comuneros;Portal Norte;11,69;17;6;2622;0;Lluvia;10;43,77
+Quinta Paredes;Calle 142;1,38;20;4;2941;1;Normal;5;24,08
+NQS Calle 75;Portal Sur;12,64;16;5;2163;1;Lluvia;6;43,36
+Ricaurte;NQS Calle 75;3,74;10;3;1353;0;Normal;1;14,86
+Universidad Nacional;Calle 127;1,81;18;5;3903;2;Lluvia;8;38,43
+Portal Américas;Ricaurte;4,95;17;3;3919;1;Normal;8;36,33
+Comuneros;Perdomo;7,91;15;5;1933;0;Nublado;2;22,09
+La Castellana;Av. Jiménez;4,7;16;3;2545;1;Normal;7;32,28
+Calle 127;Portal Sur;3,06;19;2;3711;2;Normal;6;33,68
+Quinta Paredes;Calle 100;13,53;21;3;1038;1;Normal;2;31,37
+Calle 100;7 de Agosto;19,69;9;5;1946;2;Nublado;6;52,07
+Av. Eldorado;Perdomo;5,67;9;6;2293;1;Nublado;9;38,85
+Portal Américas;Toberín;13,85;7;0;387;0;Lluvia;5;37,08
+Calle 142;Av. Eldorado;18,7;16;1;3345;0;Lluvia;7;50,56
+Ricaurte;Las Aguas;18,28;19;3;1686;2;Normal;7;50,73
+Quinta Paredes;Calle 100;18,12;9;1;2000;0;Nublado;9;48,44
+Quinta Paredes;Portal Américas;12,94;13;5;3773;0;Lluvia;6;41,01
+Perdomo;Prado;15,36;9;3;2236;1;Normal;5;42,37
+Ricaurte;Perdomo;12,11;10;3;3961;0;Lluvia;6;38,69
+Av. Eldorado;Calle 142;17,84;7;1;852;2;Normal;8;54,49
+Prado;La Castellana;19,27;15;2;3213;0;Normal;7;44,72
+Las Aguas;Av. Jiménez;8,94;10;2;3786;1;Normal;3;32,46
+Portal Norte;Portal Sur;7,05;10;0;2959;0;Nublado;3;24,47
+General Santander;Av. Eldorado;1,77;19;5;628;1;Nublado;6;29,25
+Las Aguas;Portal Norte;14,96;5;2;1859;0;Lluvia;4;36,11
+7 de Agosto;Comuneros;7,38;21;6;3511;1;Normal;3;27,04
+Ricaurte;7 de Agosto;11,5;20;2;1392;0;Lluvia;6;33,92
+Av. Eldorado;Calle 26;18,02;5;6;826;0;Normal;2;32,3
+Calle 127;Av. Jiménez;16,23;7;6;608;0;Nublado;10;48,4
+Las Aguas;Calle 142;3,97;19;5;3877;1;Nublado;5;31,75
+Toberín;Calle 127;4,79;7;1;675;2;Lluvia;5;35,3
+NQS Calle 75;La Castellana;1,95;7;3;1612;2;Nublado;8;37,46
+Portal Sur;Las Aguas;14,42;20;2;3296;2;Nublado;7;46,47
+Calle 100;Calle 26;1,12;10;1;1378;0;Lluvia;5;23,83
+Prado;Calle 142;4,58;15;6;1232;0;Normal;7;26,56
+Las Aguas;General Santander;10,63;14;1;2047;1;Lluvia;6;38,09
+Portal Norte;7 de Agosto;6,35;10;0;552;0;Normal;6;24,2
+General Santander;Calle 142;13,81;19;0;3348;2;Normal;9;53,06
+Ricaurte;Las Aguas;13,89;7;4;1374;2;Lluvia;8;51,15
+Portal Sur;Ricaurte;10,49;20;2;2536;2;Normal;5;37,36
+Ricaurte;General Santander;9,83;19;2;3561;1;Normal;8;41,68
+Calle 127;Comuneros;8,97;5;6;871;1;Normal;7;35,47
+Comuneros;Ricaurte;1,27;10;1;2728;0;Normal;1;13
+Calle 127;7 de Agosto;7,41;5;3;1906;0;Normal;7;30,21
+NQS Calle 75;La Castellana;10,24;20;3;2082;0;Normal;6;29,95
+Prado;Calle 142;19,11;20;4;1485;0;Normal;4;39,23
+General Santander;Portal Sur;1,25;14;5;949;1;Nublado;6;25,9
+Las Aguas;Prado;12,38;21;2;1697;2;Normal;6;43,31
+Ricaurte;Av. Jiménez;19,44;7;0;2131;1;Normal;6;50,11
+NQS Calle 75;Av. Eldorado;13,04;20;6;1449;2;Normal;7;43,43
+La Castellana;Calle 127;19,34;12;5;2728;2;Normal;7;51,41
+Av. Jiménez;Portal Sur;17,92;15;4;3907;0;Normal;2;35,76
+Calle 142;Calle 26;10,33;13;0;2141;1;Nublado;7;39,64
+Calle 127;Ricaurte;17,11;6;3;1310;0;Nublado;7;43,09
+Las Aguas;Portal Sur;11,68;13;2;2285;1;Nublado;5;35,64
+Portal Américas;La Castellana;19,2;8;2;3304;0;Nublado;6;46,13
+Calle 26;Universidad Nacional;5,72;17;3;3169;0;Normal;6;28
+Portal Norte;Portal Américas;13,38;18;0;1809;1;Nublado;6;41,88
+Comuneros;Quinta Paredes;3,98;19;6;1586;0;Lluvia;8;31,6
+Las Aguas;Perdomo;6,41;9;2;369;0;Normal;7;29,79
+Ricaurte;Calle 127;6,99;17;4;404;2;Normal;7;37,86
+Av. Eldorado;Las Aguas;16,89;6;5;1458;1;Nublado;9;49,1
+Calle 26;Toberín;14,73;9;3;561;0;Normal;5;36
+NQS Calle 75;Calle 142;15,34;16;2;632;1;Normal;5;40,64
+Quinta Paredes;Toberín;10,97;17;5;934;2;Lluvia;6;44,39
+Prado;7 de Agosto;5,32;6;5;3099;2;Normal;10;45,07
+NQS Calle 75;Portal Sur;1,81;12;6;1252;0;Lluvia;2;17,53
+Av. Eldorado;Comuneros;15,36;17;0;2389;1;Normal;10;51,51
+General Santander;Quinta Paredes;2,29;11;4;447;0;Normal;4;15,83
+Calle 142;Av. Jiménez;17,75;21;6;972;1;Normal;5;39,75
+Portal Américas;Las Aguas;6,35;16;4;1890;0;Lluvia;9;36,2
+La Castellana;Av. Eldorado;18,06;17;0;2964;1;Normal;8;51,25
+Portal Américas;Calle 26;15,63;11;1;761;0;Normal;1;29,28
+La Castellana;Portal Américas;15,44;14;6;3125;2;Normal;5;46,13
+Ricaurte;Perdomo;2,03;12;4;3946;1;Normal;1;18,56
+La Castellana;Calle 100;17,35;11;3;3248;1;Nublado;4;44,4
+Las Aguas;Calle 100;18,5;20;4;2744;1;Nublado;6;48,19
+NQS Calle 75;Calle 142;12,71;5;6;427;2;Normal;1;34,46
+Portal Norte;Universidad Nacional;9,46;10;0;519;1;Normal;2;28,6
+Ricaurte;Calle 142;6,32;5;2;3455;0;Lluvia;3;24,81
+Perdomo;La Castellana;3,29;5;3;1015;0;Normal;6;21,77
+Av. Jiménez;Quinta Paredes;6,19;5;5;2606;1;Normal;6;30,1
+Calle 142;Comuneros;13,88;5;0;2337;1;Lluvia;4;38,41
+Portal Norte;Av. Jiménez;18,05;7;6;3889;1;Nublado;10;55,92
+7 de Agosto;Portal Norte;13,75;11;1;3124;1;Lluvia;6;41,79
+Av. Jiménez;General Santander;11,62;20;6;1248;2;Lluvia;1;34,25
+Calle 142;Las Aguas;7,98;20;4;971;1;Nublado;3;28,99
+Quinta Paredes;Calle 127;7,09;16;3;1012;2;Normal;8;42,53
+Universidad Nacional;Calle 127;16,47;20;5;2521;1;Normal;4;38,19
+7 de Agosto;Calle 127;7,32;16;5;2211;1;Nublado;10;40,92
+Toberín;Av. Eldorado;10,62;9;4;1699;2;Nublado;10;48,27
+Av. Jiménez;Calle 127;19,57;11;6;3139;1;Normal;4;45,44
+Calle 26;Quinta Paredes;1,8;8;4;316;1;Lluvia;10;38,1
+NQS Calle 75;Av. Eldorado;10,29;15;5;3726;1;Nublado;4;34,83
+Comuneros;NQS Calle 75;11,96;18;5;3378;0;Normal;10;43,38
+La Castellana;Portal Norte;17,97;21;6;741;1;Normal;1;35,76
+Universidad Nacional;NQS Calle 75;15,36;14;6;1157;2;Nublado;7;46,29
+Portal Norte;Portal Américas;6,62;11;1;3690;2;Normal;3;31,6
+Prado;General Santander;18,95;17;0;3158;2;Normal;8;55,52
+Universidad Nacional;General Santander;12,77;20;5;2818;2;Normal;4;41,74
+Portal Sur;Av. Eldorado;7,68;13;5;2239;1;Nublado;7;33,99
+Av. Jiménez;Las Aguas;17,73;20;0;1856;0;Lluvia;7;46,46
+Portal Sur;7 de Agosto;11,33;7;1;3266;2;Nublado;5;43,07
+Av. Eldorado;NQS Calle 75;12,47;20;0;1622;1;Nublado;6;40,31
+La Castellana;Las Aguas;8,8;5;5;825;2;Lluvia;7;39,82
+Calle 26;Perdomo;2,31;10;3;1425;2;Nublado;7;34,44
+Portal Américas;Toberín;5,81;8;5;2416;1;Normal;8;35,47
+Calle 100;Toberín;6,52;15;3;749;2;Normal;7;34,33
+Portal Sur;Portal Américas;5,73;17;6;3349;2;Lluvia;8;42,16
+Calle 100;NQS Calle 75;7,46;20;1;3223;1;Lluvia;1;26,37
+Calle 127;Portal Américas;15,07;5;3;2332;1;Nublado;4;37,16
+Calle 26;Ricaurte;13,06;8;3;2240;0;Normal;9;42,99
+Calle 142;Portal Américas;2,66;16;3;1943;2;Lluvia;6;34,36
+Calle 100;Calle 142;11,84;11;3;3002;2;Normal;3;37,13
+Calle 100;Av. Jiménez;8,85;6;1;1129;0;Normal;10;38,92
+Portal Norte;Ricaurte;2,14;5;0;2448;2;Normal;5;27,04
+Calle 127;Av. Eldorado;18,49;20;6;1174;0;Nublado;4;37,96
+Prado;Calle 100;8,37;7;1;3032;0;Lluvia;6;36,8
+Calle 142;Portal Sur;10,75;7;4;974;0;Nublado;8;39,13
+Ricaurte;NQS Calle 75;16,73;18;0;3381;1;Normal;7;49,08
+Portal Norte;La Castellana;13,76;16;3;2142;2;Lluvia;6;49,8
+Calle 127;Portal Sur;12,68;21;3;2946;2;Normal;5;41,62
+Portal Sur;Calle 142;9,22;5;3;571;2;Normal;7;37,56
+Portal Américas;Toberín;8,02;17;2;2202;2;Lluvia;7;43,17
+Quinta Paredes;Las Aguas;7,21;14;6;2224;2;Normal;7;39,53
+Av. Jiménez;Quinta Paredes;18,55;9;3;1680;0;Nublado;7;45,76
+Las Aguas;Calle 142;5,78;13;2;3882;1;Nublado;2;25,53
+Av. Eldorado;NQS Calle 75;11,75;16;2;1085;1;Nublado;8;42,13
+Las Aguas;General Santander;13,72;11;6;2811;0;Lluvia;6;38,5
+Ricaurte;Quinta Paredes;11,51;11;6;2195;2;Nublado;1;34,66
+Universidad Nacional;NQS Calle 75;4,91;15;1;3934;2;Lluvia;3;32,01
+Portal Sur;7 de Agosto;18,72;19;4;1698;0;Normal;5;40,45
+Comuneros;Quinta Paredes;19,69;5;0;1073;1;Lluvia;4;47,08
+Quinta Paredes;Av. Jiménez;16,6;21;4;2022;0;Normal;4;36,09
+Portal Sur;Las Aguas;3,05;18;3;1582;0;Normal;5;22,77
+Toberín;Portal Américas;17,1;13;0;2546;2;Normal;7;48,07
+General Santander;La Castellana;1,76;6;0;756;1;Lluvia;10;35,76
+General Santander;NQS Calle 75;5,38;13;4;1748;0;Normal;5;24,48
+NQS Calle 75;Calle 100;16,31;17;1;2518;2;Normal;6;47,42
+Las Aguas;7 de Agosto;16,38;8;0;1308;1;Normal;8;47,97
+Calle 100;NQS Calle 75;6,31;5;1;3049;1;Normal;7;34,1
+Comuneros;Perdomo;5,05;8;6;635;1;Nublado;8;33,54
+Comuneros;Las Aguas;15,26;5;4;3433;1;Normal;6;42,58
+Calle 26;Av. Eldorado;7,12;20;4;2821;1;Lluvia;5;32,86
+Calle 127;Calle 142;12,42;17;1;3527;1;Normal;7;42,54
+7 de Agosto;NQS Calle 75;14,58;12;3;2759;1;Lluvia;6;46,01
+NQS Calle 75;Calle 142;9,59;5;3;2641;1;Normal;1;26,89
+Perdomo;General Santander;2,7;13;2;1236;1;Normal;3;21,15
+Calle 100;NQS Calle 75;17,22;21;4;2474;0;Lluvia;4;39,12
+NQS Calle 75;Calle 142;14,43;10;0;2820;2;Nublado;3;39,36
+7 de Agosto;Perdomo;3,83;9;6;2085;1;Lluvia;6;32,26
+Universidad Nacional;Calle 100;10,89;12;6;677;2;Normal;6;40,42
+Calle 100;Universidad Nacional;11,41;18;1;1267;0;Lluvia;6;37,79
+Calle 142;Portal Américas;15,68;13;6;3507;0;Nublado;7;41,7
+Ricaurte;Calle 100;3,9;10;1;3523;0;Normal;2;19,89
+Calle 26;Portal Norte;10,52;6;3;852;0;Normal;6;34,39
+NQS Calle 75;Las Aguas;16,85;13;3;1306;1;Normal;1;35,02
+Calle 100;Las Aguas;15,34;7;3;856;0;Normal;9;44,85
+Comuneros;Quinta Paredes;11,29;17;4;2211;2;Lluvia;7;48,87
+Av. Jiménez;Comuneros;15,28;21;3;983;2;Lluvia;2;42,01
+La Castellana;Calle 142;12,4;16;6;1522;0;Nublado;8;39,66
+Universidad Nacional;Ricaurte;1,45;20;1;3373;0;Normal;7;24,93
+Calle 127;Perdomo;17,44;9;5;3551;1;Normal;6;45,28
+NQS Calle 75;Perdomo;5,81;17;3;3219;1;Normal;6;33,42
+General Santander;Toberín;5,66;9;5;714;1;Normal;7;32,86
+Comuneros;General Santander;2,48;14;2;3663;2;Nublado;1;26,34
+Portal Sur;Calle 142;7,7;11;2;2375;0;Normal;1;19,12
+Quinta Paredes;7 de Agosto;2,14;21;1;2883;2;Normal;4;27,28
+Las Aguas;Perdomo;7,59;15;2;1807;0;Lluvia;5;28,23
+Perdomo;Portal Sur;9,23;21;0;3029;2;Nublado;5;38,66
+Calle 127;Comuneros;7,27;19;5;3259;2;Normal;6;40,32
+La Castellana;Calle 142;12,72;13;3;1202;0;Normal;1;27,14
+La Castellana;General Santander;11,82;18;6;3682;0;Normal;9;40,98
+La Castellana;Portal Norte;19,83;10;6;453;1;Nublado;7;46,35
+Perdomo;Calle 100;18,57;20;0;627;2;Normal;3;43,45
+Ricaurte;Portal Sur;19,16;13;4;2587;2;Lluvia;7;56,06
+Portal Américas;Av. Eldorado;11,01;21;5;1442;2;Nublado;2;33,17
+Portal Norte;General Santander;10,18;15;4;1531;1;Lluvia;4;32,99
+Av. Jiménez;Universidad Nacional;16,23;13;0;3675;0;Nublado;7;43,76
+NQS Calle 75;Perdomo;18,2;8;5;2520;2;Normal;10;57,63
+Av. Jiménez;Av. Eldorado;6,68;12;1;2852;1;Lluvia;6;33,52
+Av. Eldorado;Toberín;9,28;18;1;1996;1;Lluvia;7;42,99
+Prado;Universidad Nacional;5,48;20;3;2710;0;Normal;7;27,4
+NQS Calle 75;Las Aguas;16,29;15;1;2749;1;Nublado;7;44,26
+Calle 142;Portal Américas;16,13;5;1;2513;1;Normal;1;36,08
+Portal Américas;Calle 127;19,84;5;3;1027;0;Normal;7;43,04
+Ricaurte;Av. Jiménez;2,66;10;2;1652;0;Normal;5;19,27
+Toberín;Las Aguas;1;11;6;996;1;Lluvia;4;22,21
+Av. Jiménez;Universidad Nacional;12,69;21;0;3707;2;Normal;1;35,23
+7 de Agosto;Calle 100;13,23;21;0;2333;2;Normal;3;36,39
+Av. Eldorado;Calle 100;14,2;19;2;2384;1;Normal;10;50,58
+General Santander;NQS Calle 75;16,09;14;5;1637;0;Normal;2;32,08
+Toberín;Calle 142;2,12;8;1;741;1;Normal;10;32,35
+Av. Eldorado;Portal Américas;12,01;20;3;1978;0;Lluvia;6;38,43
+Quinta Paredes;Av. Jiménez;6,75;11;3;2987;0;Normal;4;23,82
+Calle 142;Toberín;1,6;13;3;1064;1;Normal;4;22,66
+Av. Eldorado;Perdomo;3,53;15;5;3197;1;Nublado;7;31,89
+Calle 100;Portal Norte;17,51;10;2;2003;0;Normal;3;33,5
+Calle 127;NQS Calle 75;10,74;20;2;1128;2;Normal;1;32,07
+Portal Américas;Ricaurte;14,52;16;2;311;0;Normal;9;41,06
+Calle 127;Av. Eldorado;13,93;21;2;2474;1;Lluvia;5;42,03
+Las Aguas;La Castellana;9,26;6;3;3245;2;Nublado;9;49,64
+Perdomo;Toberín;6,41;5;3;2713;2;Lluvia;1;30,23
+General Santander;Perdomo;18,37;12;2;3719;2;Normal;3;44,53
+Portal Américas;Toberín;16,52;13;3;1386;0;Nublado;1;29,74
+Perdomo;NQS Calle 75;8,54;18;0;611;1;Nublado;9;42,39
+Portal Norte;Calle 26;17,5;14;6;2758;2;Normal;5;45,78
+Quinta Paredes;Universidad Nacional;15,81;12;3;2596;2;Normal;5;45,47
+Portal Norte;General Santander;2,51;12;3;384;0;Normal;6;22,33
+Calle 100;Universidad Nacional;13,76;18;1;2046;0;Nublado;7;38,82
+Universidad Nacional;Portal Américas;19,96;7;0;937;0;Lluvia;5;47,05
+Calle 142;7 de Agosto;19,34;8;6;2148;1;Normal;9;53,19
+Prado;Portal Sur;13,69;13;6;641;1;Nublado;3;33,08
+La Castellana;Quinta Paredes;18,95;5;4;3594;0;Lluvia;2;37,77
+Calle 100;Calle 26;16,49;11;3;3401;2;Normal;3;44,31
+General Santander;Prado;16,34;17;1;986;0;Nublado;8;45,31
+Calle 142;NQS Calle 75;16,86;20;4;3457;1;Normal;6;43,95
+Toberín;Portal Américas;9,61;5;4;1755;0;Lluvia;3;29,21
+General Santander;Portal Norte;19,42;19;0;849;0;Nublado;9;50,41
+Av. Jiménez;Calle 127;10;15;0;2859;0;Nublado;6;32,35
+Universidad Nacional;Quinta Paredes;16,62;14;0;3817;0;Normal;3;36,05
+Calle 127;7 de Agosto;16,5;9;2;1692;1;Lluvia;9;52,14
+Portal Sur;Universidad Nacional;15,03;18;0;407;1;Normal;10;47
+Calle 127;Calle 26;12,46;8;2;764;0;Lluvia;7;39,14
+Prado;Calle 100;11,95;7;1;501;1;Normal;9;44,48
+Calle 142;Quinta Paredes;18,77;14;4;2994;1;Normal;4;43,89
+Toberín;Universidad Nacional;18,46;18;0;2994;1;Normal;5;44,77
+Prado;Av. Jiménez;1,08;20;0;2221;1;Normal;1;15,85
+Av. Jiménez;Quinta Paredes;18,01;12;0;1668;0;Normal;5;39,4
+Prado;Portal Norte;9,94;9;1;3322;2;Nublado;8;44,82
+Calle 26;7 de Agosto;11,96;11;3;2542;0;Normal;2;27,73
+Comuneros;La Castellana;16,68;14;2;857;1;Lluvia;4;43,34
+Universidad Nacional;7 de Agosto;5,73;8;5;2021;1;Nublado;8;34,88
+Prado;Comuneros;12,22;13;5;825;2;Normal;6;41,26
+NQS Calle 75;Calle 127;14,51;12;1;3351;0;Nublado;6;38,26
+La Castellana;7 de Agosto;19,23;5;5;1160;2;Normal;6;47,34
+Prado;Av. Eldorado;4,92;9;1;3266;2;Nublado;7;38,58
+General Santander;Comuneros;13,53;13;3;3016;0;Lluvia;2;31,3
+Ricaurte;La Castellana;17,53;12;3;2302;1;Normal;3;37,19
+Perdomo;Calle 100;2,17;6;5;2179;2;Normal;8;34,35
+Universidad Nacional;Calle 127;6,39;10;3;3450;0;Normal;7;30,24
+Av. Jiménez;Perdomo;7,61;12;3;1122;2;Lluvia;7;40,49
+Comuneros;7 de Agosto;4,05;12;3;846;0;Nublado;6;24,51
+NQS Calle 75;Quinta Paredes;10,68;9;0;1396;2;Normal;7;44,1
+7 de Agosto;Calle 26;16,19;17;0;557;2;Lluvia;5;47,55
+Universidad Nacional;7 de Agosto;16,38;21;1;2870;1;Lluvia;1;36,53
+Portal Norte;Av. Eldorado;15,6;18;4;1697;0;Normal;6;37,99
+Universidad Nacional;General Santander;5,77;13;4;1117;2;Normal;7;37,31
+Av. Jiménez;Portal Américas;7,78;17;3;2858;0;Lluvia;7;34,41
+Av. Eldorado;Ricaurte;9,96;12;4;1665;1;Normal;5;31,41
+Calle 142;Prado;11,74;9;1;1982;0;Normal;8;38,89
+Calle 142;Prado;13,94;19;5;855;0;Nublado;6;37,43
+Toberín;7 de Agosto;1,22;18;0;1448;2;Nublado;8;36,78
+Calle 142;Av. Eldorado;18,55;8;0;3598;1;Nublado;9;55,62
+NQS Calle 75;Toberín;10,04;13;4;984;2;Nublado;6;37,59
+Portal Sur;La Castellana;16,12;15;0;663;2;Nublado;5;43,7
+General Santander;Ricaurte;18,76;19;4;3150;0;Normal;5;44,62
+Av. Jiménez;Portal Norte;13,68;11;1;3668;0;Normal;1;29,42
+La Castellana;Portal Américas;4,76;14;3;550;2;Normal;5;28,97
+Prado;La Castellana;7,97;14;6;3112;1;Normal;1;26,79
+Calle 100;Portal Sur;8,18;10;2;443;2;Normal;7;39,25
+Prado;Calle 142;15,52;11;0;929;1;Normal;2;34,82
+Calle 100;7 de Agosto;14,56;21;4;3982;2;Lluvia;4;44,49
+Las Aguas;Quinta Paredes;13,55;11;3;2040;0;Nublado;7;37,96
+Av. Eldorado;7 de Agosto;12,52;5;1;1962;1;Normal;5;36,39
+Calle 142;Av. Jiménez;3,19;9;0;1241;2;Nublado;5;32,44
+Comuneros;Av. Jiménez;14,54;9;0;2421;0;Nublado;6;41,13
+NQS Calle 75;Toberín;10,66;7;1;2507;2;Normal;9;47,8
+7 de Agosto;Portal Américas;7,31;9;6;1030;0;Normal;6;28,02
+NQS Calle 75;Calle 142;10,84;19;0;2029;2;Nublado;5;42,61
+Av. Eldorado;Perdomo;4,13;13;6;1683;0;Normal;1;16,97
+Portal Norte;Portal Américas;2,59;10;6;3340;2;Nublado;1;25,21
+Portal Sur;Prado;9,34;16;0;3525;2;Nublado;9;46,08
+Calle 127;Ricaurte;6,94;8;6;2364;2;Normal;7;38,89
+Calle 142;Quinta Paredes;16,44;20;2;2311;2;Lluvia;1;40,13
+Universidad Nacional;Calle 26;12,81;6;2;1854;1;Normal;8;43,75
+Toberín;Las Aguas;1,93;13;1;1847;1;Nublado;1;17,9
+Calle 26;7 de Agosto;11,07;17;3;2606;0;Normal;6;36,29
+Calle 26;NQS Calle 75;19,82;16;5;500;1;Normal;6;48,55
+Comuneros;Toberín;11,5;6;5;2224;0;Normal;6;34,92
+Las Aguas;Quinta Paredes;9,74;16;6;369;2;Nublado;9;44,55
+Calle 142;Toberín;6,09;6;0;3844;1;Normal;9;38
+Quinta Paredes;Calle 26;15,03;13;5;3303;1;Lluvia;6;43,95
+Portal Sur;Portal Américas;17,73;12;4;1094;1;Nublado;2;37,81
+Calle 142;Comuneros;6,09;9;5;568;0;Nublado;9;34,49
+Calle 100;Calle 26;11,86;14;3;1518;0;Normal;4;30,73
+Calle 127;Ricaurte;14,72;21;3;1176;0;Normal;7;36,82
+Perdomo;Toberín;16,62;14;5;1896;0;Normal;7;40,09
+Universidad Nacional;Toberín;4,55;12;5;3067;1;Normal;6;28,74
+La Castellana;Portal Norte;13,7;20;3;1560;1;Nublado;7;41,12
+Av. Jiménez;Calle 26;10,6;5;6;1225;2;Normal;2;32,84
+Calle 26;Portal Américas;4,39;13;2;3271;0;Normal;7;28,46
+Av. Eldorado;Toberín;6,5;6;6;1493;0;Normal;6;27,75
+Ricaurte;La Castellana;16,74;13;4;1590;2;Normal;6;45,66
+Calle 127;Prado;2,71;19;4;2210;2;Lluvia;5;34,64
+Las Aguas;La Castellana;5,58;7;5;3080;0;Normal;6;28,8
+Av. Eldorado;NQS Calle 75;1,75;18;6;442;2;Normal;5;30,55
+Las Aguas;Calle 26;10,44;15;3;690;1;Lluvia;7;39,11
+Quinta Paredes;Calle 26;17,94;5;1;1154;0;Lluvia;1;34,64
+Av. Eldorado;General Santander;3,13;9;6;2746;2;Lluvia;6;37,84
+Av. Eldorado;Portal Sur;13,1;20;2;3287;1;Lluvia;5;39,78
+General Santander;Portal Norte;17,76;11;3;1806;2;Nublado;2;43,87
+Calle 142;Universidad Nacional;12,47;8;6;2454;2;Nublado;7;45,72
+Universidad Nacional;NQS Calle 75;5,4;21;3;1704;0;Nublado;7;30,52
+La Castellana;Calle 100;16,48;10;1;2784;2;Nublado;1;38,93
+7 de Agosto;Av. Eldorado;7,42;7;0;1345;0;Nublado;10;36,83
+Calle 26;Quinta Paredes;8,74;6;6;1802;2;Normal;7;40,4
+Comuneros;General Santander;9,27;6;4;3141;0;Normal;6;33,18
+Calle 142;Portal Norte;8,34;19;0;1612;2;Normal;6;40,2
+7 de Agosto;Av. Eldorado;7,76;18;4;2553;0;Normal;5;29,49
+Portal Sur;General Santander;15,5;9;4;1163;2;Lluvia;7;52,69
+Toberín;Prado;5,6;5;6;2461;1;Nublado;3;25,78
+Portal Sur;Quinta Paredes;15;21;1;1968;0;Normal;6;36,59
+Prado;Toberín;2,95;16;3;3130;2;Normal;5;32,53
+Av. Jiménez;Portal Américas;14,44;14;2;2651;0;Lluvia;6;42
+7 de Agosto;Av. Jiménez;16,34;17;6;2748;2;Nublado;10;56,76
+Las Aguas;Av. Jiménez;16,35;14;6;2563;2;Nublado;5;47,42
+Perdomo;Calle 142;17,89;14;1;2492;1;Nublado;6;47,66
+NQS Calle 75;Calle 127;7,28;8;2;387;2;Lluvia;9;45,47
+La Castellana;Calle 100;17,92;8;1;3737;0;Normal;6;45,03
+General Santander;Comuneros;11,71;6;3;2848;2;Normal;9;49,03
+Comuneros;Prado;9,69;18;0;2929;1;Normal;6;37,02
+NQS Calle 75;Calle 26;12,53;15;5;3013;2;Lluvia;6;45,1
+Calle 26;Calle 127;13,49;5;6;3653;1;Lluvia;3;40,5
+Prado;Calle 127;18,14;18;2;422;2;Lluvia;6;52,04
+Ricaurte;Quinta Paredes;13,85;18;5;1389;0;Nublado;8;41,98
+Ricaurte;General Santander;12,98;11;0;2601;1;Lluvia;1;34,48
+Calle 127;La Castellana;16,34;15;4;1679;0;Normal;2;32,7
+Comuneros;Quinta Paredes;3,83;14;6;2384;1;Nublado;1;22,51
+Calle 100;Portal Sur;15,29;5;0;3034;2;Normal;4;44,54
+Comuneros;Calle 142;19,97;8;6;3426;1;Nublado;5;47,65
+La Castellana;Las Aguas;7,36;5;0;571;1;Nublado;5;31,03
+Calle 142;Universidad Nacional;12,97;7;6;3321;1;Normal;8;46,38
+Portal Américas;Calle 26;4,72;19;5;1984;2;Normal;10;41,55
+Portal Américas;7 de Agosto;6,13;20;3;2113;2;Normal;2;26,44
+Perdomo;Calle 127;14,79;18;5;832;2;Normal;5;44,42
+Calle 142;Portal Sur;14,77;20;3;495;0;Nublado;5;33,17
+7 de Agosto;Portal Norte;8,55;21;5;2485;1;Normal;2;26,1
+Perdomo;NQS Calle 75;2,69;9;2;1765;2;Lluvia;6;35,14
+Comuneros;Prado;9,88;7;3;343;0;Lluvia;6;35,56
+Calle 142;Las Aguas;4,1;17;0;1196;1;Normal;9;36,93
+Av. Eldorado;Calle 127;9,89;16;3;796;0;Normal;5;32,1
+Quinta Paredes;Universidad Nacional;6,83;6;5;990;2;Normal;6;38,34
+Universidad Nacional;Calle 26;1,82;8;3;1428;1;Lluvia;6;30,29
+7 de Agosto;Prado;8,57;8;1;2197;2;Nublado;10;47,74
+Calle 100;Calle 142;1,27;10;5;677;1;Lluvia;5;25,67
+Calle 100;Prado;12,94;13;4;2019;0;Nublado;3;31,6
+Portal Sur;Las Aguas;9,32;18;6;3684;0;Lluvia;9;41,06
+Prado;Calle 26;4,37;15;3;419;1;Normal;7;29,07
+Portal Norte;Portal Sur;15,93;18;3;3088;0;Normal;10;46,14
+Portal Sur;NQS Calle 75;18,11;21;6;3607;0;Lluvia;1;35,99
+Portal Norte;Comuneros;11,27;7;5;3743;0;Normal;10;42,48
+Calle 100;Calle 142;19,85;16;0;3483;1;Nublado;8;56,08
+7 de Agosto;Comuneros;11,82;7;4;2967;0;Normal;9;39,92
+Av. Jiménez;Comuneros;19,41;6;4;2719;2;Nublado;7;54,43
+Las Aguas;Portal Américas;11,3;5;1;819;0;Lluvia;7;34,71
+Las Aguas;NQS Calle 75;13,58;18;5;2750;2;Nublado;9;54,08
+Portal Américas;Calle 127;6,66;15;6;3312;2;Nublado;6;35,88
+Calle 142;Universidad Nacional;7,59;21;3;3618;0;Nublado;4;25,91
+Calle 100;NQS Calle 75;18,01;17;3;1899;1;Normal;10;52,04
+Las Aguas;Perdomo;6,22;7;4;560;2;Nublado;8;40,2
+Quinta Paredes;Portal Sur;8,31;9;6;2854;2;Lluvia;9;48,22
+Calle 127;Portal Américas;7,08;11;3;3371;0;Nublado;5;27,72
+Calle 26;Portal Norte;8,57;10;5;2860;0;Normal;6;29,52
+Portal Norte;Ricaurte;15,36;17;3;3280;2;Normal;8;52,27
+Portal Norte;Prado;4,19;10;6;3357;1;Lluvia;3;26,72
+Calle 26;Comuneros;9,75;17;1;874;1;Lluvia;9;43,42
+Portal Américas;NQS Calle 75;13,05;9;5;2481;2;Nublado;7;49,13
+NQS Calle 75;La Castellana;11,38;8;2;1958;0;Normal;10;42,44
+Av. Eldorado;Calle 100;11,13;15;5;2279;0;Lluvia;3;30,35
+Av. Jiménez;Calle 100;8,67;12;6;3145;0;Normal;5;30,22
+Ricaurte;Prado;5,25;21;0;2593;2;Normal;3;27,4
+Portal Américas;Portal Sur;10,86;17;6;2588;1;Normal;7;41,57
+Universidad Nacional;7 de Agosto;5,26;11;2;2872;2;Normal;6;36,22
+Av. Jiménez;Calle 142;18,6;8;3;2753;1;Normal;6;47,97
+Av. Eldorado;Av. Jiménez;5,48;6;0;3734;1;Normal;7;33,67
+Universidad Nacional;Perdomo;3,04;15;1;739;0;Nublado;3;18,69
+La Castellana;General Santander;10,04;21;0;1275;1;Normal;3;27,89
+Las Aguas;7 de Agosto;19,1;9;5;3840;2;Lluvia;7;59,87
+Calle 142;Toberín;15,75;10;3;1868;2;Nublado;1;39,15
+Calle 26;Portal Sur;11,67;9;6;2257;0;Normal;6;34,44
+Calle 26;Portal Américas;11,6;16;3;966;0;Lluvia;9;43,68
+General Santander;Portal Américas;2,11;15;6;3465;2;Nublado;7;35,23
+Quinta Paredes;Perdomo;6,31;10;1;2318;2;Normal;3;32,22
+7 de Agosto;Quinta Paredes;13,01;18;2;3562;1;Nublado;9;47,38
+Calle 26;Calle 127;6,79;8;0;3627;2;Normal;7;38,83
+NQS Calle 75;Calle 127;13,21;8;6;1635;1;Normal;5;38,35
+Portal Sur;Toberín;10,91;18;4;3323;0;Nublado;7;37,43
+Calle 26;Portal Américas;12,72;17;4;2839;2;Normal;8;50,45
+NQS Calle 75;General Santander;9,53;19;5;1498;2;Normal;10;45,23
+Ricaurte;Calle 26;19,71;10;2;1479;0;Lluvia;1;36,7
+Calle 100;Quinta Paredes;16,35;8;5;847;0;Lluvia;6;41,51
+Calle 127;Portal Norte;12,91;7;0;1844;2;Normal;5;42,96
+General Santander;7 de Agosto;10,3;11;5;2564;1;Normal;5;33,14
+Portal Sur;Comuneros;10,85;7;5;2167;0;Nublado;7;37,1
+Av. Eldorado;7 de Agosto;15,19;16;4;2871;1;Normal;8;46,08
+Av. Jiménez;Toberín;7,18;7;4;3645;2;Nublado;8;45,49
+Quinta Paredes;NQS Calle 75;14,86;17;0;2550;0;Nublado;5;39,3
+Calle 100;Calle 142;9,69;11;1;2114;2;Nublado;5;39,03
+Calle 100;Portal Norte;7,19;10;1;2661;2;Lluvia;2;33,85
+Calle 100;Prado;14,92;15;5;3797;2;Normal;3;40,37
+Quinta Paredes;Calle 127;5,49;10;2;2975;1;Nublado;2;26,35
+Quinta Paredes;La Castellana;7,08;14;2;2011;0;Normal;6;27,87
+Portal Sur;NQS Calle 75;4,07;17;2;1312;0;Nublado;7;30,14
+Av. Jiménez;Portal Sur;12,61;8;1;3958;1;Nublado;9;47,86
+Calle 100;Av. Jiménez;4,31;7;1;527;1;Normal;9;34,57
+Calle 26;Portal Sur;14,66;11;3;3199;1;Normal;5;41,81
+Calle 26;NQS Calle 75;3,48;5;6;3065;0;Normal;3;19,24
+Toberín;Quinta Paredes;4,58;6;0;1386;2;Normal;10;42,96
+Calle 26;Portal Américas;10,61;19;2;3100;0;Nublado;10;43,6
+Ricaurte;Calle 26;7,79;12;5;2491;1;Lluvia;7;39,29
+Toberín;La Castellana;1,33;14;1;1888;2;Normal;5;29,02
+Av. Jiménez;Av. Eldorado;3,08;7;2;3720;0;Lluvia;10;36,92
+Calle 142;Portal Norte;15,8;10;6;3289;2;Nublado;6;46,21
+Universidad Nacional;La Castellana;10,08;21;1;532;2;Lluvia;1;33,04
+Portal Sur;Calle 142;5;20;0;2793;0;Normal;1;18,31
+Calle 127;Prado;4,94;8;6;3113;2;Lluvia;8;42,74
+Calle 127;Toberín;3,19;7;0;761;1;Normal;6;30,16
+Toberín;Prado;12,73;6;3;857;2;Normal;10;52,06
+Perdomo;NQS Calle 75;4,76;11;0;1502;2;Normal;4;28,87
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;; ;;;
